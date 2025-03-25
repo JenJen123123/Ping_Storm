@@ -15,7 +15,7 @@ services=(
 for service in "${services[@]}"; do
     #echo "Pinging ${service}..."
     echo -e "\e[1;31m ~~~ Pinging \e[36m${service}\e[0m ~~~ \e[0m"
-    ping -c 1 "$service"
+    ping -c 3 "$service"
     echo "-----------------------------------"
 done
 
@@ -25,3 +25,9 @@ echo " "
 #echo -e "\e[1;31m ~~~ End of script ~~~ \e[0m"
 echo -e "\e[1;33;40m ~~~ End of script ~~~ \e[0m"
 echo " "
+echo " "
+echo "1) Start"
+echo "2) Stop"
+echo "3) Status"
+echo "4) Show"
+echo "5) Quit"
