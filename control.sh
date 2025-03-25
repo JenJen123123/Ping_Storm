@@ -8,7 +8,7 @@ select comd in "${options[@]}"; do
 			echo "    "
 			echo -e "\e[1;33;40m ~~~ Starting Ping Storm ~~~ \e[0m"
 			echo "    "
-			./ping.sh
+			`./ping.sh`
 			;;
 		"Stop")
 			echo "    "
@@ -30,3 +30,4 @@ select comd in "${options[@]}"; do
 		*) echo "Invalid option";;
 	esac
 done
+

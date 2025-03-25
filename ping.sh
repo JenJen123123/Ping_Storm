@@ -11,7 +11,7 @@ services=(
     "facebook.com"
     "tiktok.com"
     "youtube.com"
-    #"netflix.com"
+    "netflix.com"
 )
 
 #Clear log file
@@ -21,7 +21,7 @@ services=(
 for service in "${services[@]}"; do
     #echo "Pinging ${service}..."
     echo -e "\e[1;31m ~~~ Pinging \e[36m${service}\e[0m ~~~ \e[0m" | tee -a "$LOG_FILE"
-    ping -c 3 "$service" | tee -a "$LOG_FILE"
+    ping -c 10 "$service" | tee -a "$LOG_FILE"
     echo "-----------------------------------" | tee -a "$LOG_FILE"
 done
 
