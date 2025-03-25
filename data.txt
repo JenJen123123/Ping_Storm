@@ -1,0 +1,5 @@
+git # website min avg max mdev
+google.com 10.053 10.686 11.099 0.386
+google.com 47.379 48.269 48.854 0.606
+tiktok.com 6.204 451.318 1431.410 584.107
+youtube.com 9.320 11.245 16.619 3.105
