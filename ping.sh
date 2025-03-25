@@ -5,17 +5,17 @@
 # List of target services
 services=(
     "google.com"
-    "facebook.com"
-    "tiktok.com"
-    "youtube.com"
+    #"facebook.com"
+    #"tiktok.com"
+    #"youtube.com"
     #"netflix.com"
 )
 
 # Loop through each service and ping
 for service in "${services[@]}"; do
-    #echo "Pinging ${service}..."
-    echo -e "\e[1;31m ~~~ Pinging \e[36m${service}\e[0m ~~~ \e[0m"
-    ping -c 1 "$service"
+    echo "Pinging ${service}..."
+    #echo -e "\e[1;31m ~~~ Pinging \e[36m${service}\e[0m ~~~ \e[0m"
+    ping -c 3 "$service"
     echo "-----------------------------------"
 done
 

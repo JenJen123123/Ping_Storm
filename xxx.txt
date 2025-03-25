@@ -1,0 +1,13 @@
+[1;31m ~~~ Pinging [36mgoogle.com[0m ~~~ [0m
+PING google.com (142.250.75.46) 56(84) bytes of data.
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=1 ttl=128 time=6.40 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=2 ttl=128 time=6.95 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=3 ttl=128 time=6.28 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 6.284/6.544/6.948/0.289 ms
+-----------------------------------
+ 
+[1;33;40m ~~~ End of script ~~~ [0m
+ 
