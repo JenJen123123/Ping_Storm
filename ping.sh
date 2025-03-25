@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#Output file
+LOG_FILE="pingstorm.txt"
+
 # Ping script to check the availability of target services
 
 # List of target services
@@ -11,12 +14,15 @@ services=(
     #"netflix.com"
 )
 
+#Clear log file
+> "$LOG_FILE"
+
 # Loop through each service and ping
 for service in "${services[@]}"; do
     #echo "Pinging ${service}..."
-    echo -e "\e[1;31m ~~~ Pinging \e[36m${service}\e[0m ~~~ \e[0m"
-    ping -c 3 "$service"
-    echo "-----------------------------------"
+    echo -e "\e[1;31m ~~~ Pinging \e[36m${service}\e[0m ~~~ \e[0m" | tee -a "$LOG_FILE"
+    ping -c 3 "$service" | tee -a "$LOG_FILE"
+    echo "-----------------------------------" | tee -a "$LOG_FILE"
 done
 
 # End of script
