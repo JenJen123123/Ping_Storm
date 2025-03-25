@@ -4,13 +4,15 @@ services=(
     "facebook.com"
     "tiktok.com"
     "youtube.com"
-    "netflix.com"
+    #"netflix.com"
 )
 
-num_pings=4
+num_pings=1
 
 # Print header
-echo "Website       Min      Avg      Max      Mdev"
+echo " "
+echo -e "\e[1;31;41mWebsite       Min      Avg      Max      Mdev\e[0m"
+#echo "Website       Min      Avg      Max      Mdev"
 echo "----------------------------------------------"
 
 # Loop services
@@ -29,12 +31,17 @@ for site in "${services[@]}"; do
             # Format output with fixed width columns
             printf "%-13s %-8s %-8s %-8s %-8s\n", site, a[1], a[2], a[3], a[4]
         }')
-        
-        echo "$good_result" 
+
+        echo "$good_result"
     else
-        # If error
-        echo "%-13s %-8s %-8s %-8s %-8s\n" "$site" "ERROR" "ERROR" "ERROR" "ERROR" >>Error.log
+        # If error, print error message with date and site name to Error.log
+        echo "$(date '+%Y %m %d %H:%M:%S')" "$site" "Didn't send any answer" >>Error.log
     fi
-    
+
 done
+
+echo "----------------------------------------------"
+echo -e "\e[1;31;44m~~~~~~~~~~~~~ End Of Ping Script ~~~~~~~~~~~~~\e[0m"
+echo " "
+
 exit 0
