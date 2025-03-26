@@ -41,14 +41,14 @@ echo "--------------------------------"
 echo " " >>pingstorm.log
 echo "     Summary of the results     " >>pingstorm.log
 echo "--------------------------------" >>pingstorm.log
-echo "Fastest: " >>pingstorm.log
+
 fastest=$(tail -n 1 noErrorLog.txt)
-echo "Fastest: $fastest" >> pingstorm.log
-printf "\e[1;32mFastest: %-13s %-1s ms\e[0m\n" $(awk '{print $1, $2}' <<< "$fastest") | tee -a pingstorm.log
+echo "Fastest: $fastest" | tee -a pingstorm.log
+printf "\e[1;32mFastest: %-13s %-1s ms\e[0m\n" $(echo $fastest | awk '{print $1, $2}')
 
 slowest=$(head -n 1 noErrorLog.txt)
-echo "Slowest: $slowest" >> pingstorm.log
-printf "\e[1;31mSlowest: %-13s %-1s ms\e[0m\n" $(awk '{print $1, $2}' <<< "$slowest") | tee -a pingstorm.log
+echo "Slowest: $slowest" | tee -a pingstorm.log
+printf "\e[1;31mSlowest: %-13s %-1s ms\e[0m\n" $(echo $slowest | awk '{print $1, $2}')
 
 
 #Calulating average latency
