@@ -14,6 +14,7 @@ echo "-----------------------------"
 echo "   Website     Min      Max  " >>pingstorm.log
 echo "-----------------------------" >>pingstorm.log
 awk 'NR>0{printf "%-13s %-8s %-8s\n", $1, $2, $4}' DataLog.txt  | sort -k2 -nr >>pingstorm.log
+
 : '
 while read -r line; do
     function sorting {
