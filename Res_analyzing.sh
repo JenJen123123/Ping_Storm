@@ -8,10 +8,10 @@ while read -r line; do
     function sorting {
         #echo 'Web Site -- Avg speed'
         #echo '---------------------------'
-        awk 'NR>0{printf "%-13s %-8s %-8s\n", $1, $2, $4}' DataLogCopy.txt | sort -k2 -nr
+        awk 'NR>0{printf "%-13s %-8s %-8s\n", $1, $2, $4}' DataLog.txt | sort -k2 -nr
     }
     #echo "---------------------------"
-done <DataLogCopy.txt
+done <DataLog.txt
 
 sorting
 

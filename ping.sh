@@ -15,11 +15,11 @@ services=(
     "facebook.com"
     "tiktok.com"
     "youtube.com"
-    "netflix.com"
+    #"netflix.com"
 )
 
 # Number of pings to send
-num_pings=4 # Change this to the number of pings you want to send
+num_pings=1 # Change this to the number of pings you want to send
 
 # Print header
 echo " "
@@ -60,6 +60,5 @@ for site in "${services[@]}"; do
 
 done
 
-echo "----------------------------------------------"
-echo -e "\e[1;31;44m~~~~~~~~~~~~~ End Of Ping Script ~~~~~~~~~~~~~\e[0m"
+echo -e "\n\e[1;31;44m~~~~~~~ Ping Script Execution Complete ~~~~~~~\e[0m"
 echo " "
