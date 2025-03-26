@@ -9,7 +9,7 @@ services=(
 
 function speed_test () {
 read -p "choose a name for a speed test: "  TESTID
-echo $TESTID
+echo "Tested 5 services on $(date) Test Name: $TESTID"
 #export $TESTID
 
 #num_services=${#services[@]}
@@ -25,7 +25,8 @@ echo "----------------------------------------------"
 
 # Loop services
 for site in "${services[@]}"; do
-    ping_result=$(ping -c $num_pings $site 2>/dev/null | grep "^rtt min") 
+    ping_result=$(ping -c $num_pings $site 2>/dev/null | grep "^rtt min")
+echo "$ping_result" 
 #We need to add a packet loss condition
     if [ ! -z "$ping_result" ]; then
         # format output
@@ -55,5 +56,4 @@ echo " "
 }
 
 speed_test 
-
-#export $speed_test
+export -f speed_test

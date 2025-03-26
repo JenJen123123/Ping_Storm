@@ -3,8 +3,8 @@
 #LOGS_FILE="Results_analysis.log"
 #echo "--------------------------" && tee -A '{
 
+#source ./pings.sh
 #speed_test
-
 echo "Tested 5 services"
 echo "ON DATE: $(date)"
 echo 'Web Site     --     Avg speed'
@@ -37,12 +37,10 @@ for num in "${numbers[@]}"; do
 done
 
 average=$(echo "scale=3; $sum / $count" | bc)  
-<<<<<<< HEAD
-echo "Average: $average"
-=======
+#echo "Average: $average ms"
 echo -e "\033[33m Average Latency: $average ms\033[0m"
 echo "---------------------------" 
->>>>>>> 2daa3be (Added speed test function)
+#>>>>>>> 2daa3be (Added speed test function)
 
 
 #}' >> "$LOG_FILE"
