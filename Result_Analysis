@@ -22,11 +22,11 @@ sum=0
 count=0
 
 for num in "${numbers[@]}"; do
-    sum=$(echo "$sum + $num" | bc)  # חיבור המספרים בעזרת bc
-    ((count++))  # ספירת מספר הערכים
+    sum=$(echo "$sum + $num" | bc)  
+    ((count++))
 done
 
-average=$(echo "scale=3; $sum / $count" | bc)  # חישוב ממוצע עם 3 ספרות אחרי הנקודה
+average=$(echo "scale=3; $sum / $count" | bc)  
 echo "Average: $average"
 
 
