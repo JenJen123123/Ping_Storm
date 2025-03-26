@@ -178,3 +178,29 @@ tiktok.com 5.183
 Slowest: 
 facebook.com 49.454
 Average: 13.175
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 18:50:22 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  49.454   49.454  
+facebook.com  43.659   43.659  
+google.com    7.046    7.046   
+youtube.com   6.087    6.087   
+tiktok.com    5.570    5.570   
+youtube.com   5.438    5.438   
+google.com    5.317    5.317   
+tiktok.com    5.183    5.183   
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+ 
+     Summary of the results     
+--------------------------------
+Fastest: 
+[1;32mFastest: tiktok.com    5.183 ms[0m
+Slowest: 
+[1;31mSlowest: facebook.com  49.454 ms[0m
+Average: 13.175
