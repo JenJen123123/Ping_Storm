@@ -17,7 +17,7 @@ sorting
 
 sorting | grep -v "N/A" | awk '{print $1 " " $2}' >noErrorLog.txt
 
-printf "\n\e[1;31;41m     Summary of the results     \e[0m\n"
+printf "\n\e[1;33;43m     Summary of the results     \e[0m\n"
 echo "--------------------------------"
 
 fastest=$(cat noErrorLog.txt | tail -n 1)
