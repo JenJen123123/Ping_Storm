@@ -25,7 +25,7 @@ select comd in "${options[@]}"; do
 				echo "Ping Storm is already running (PID: $PING_STORM)"
 				menu
 			else
-				./ping.sh > pingstorm.log 2>&1 &
+				./ping.sh #> pingstorm.log 2>&1 &
 				PING_PID=$!
 				echo "Ping Storm started in background (PID : $PING_PID)"
 				echo "Output is beingsaved to pingstorm.log"
@@ -52,7 +52,8 @@ select comd in "${options[@]}"; do
 		"Status")
 			echo "    "
 			echo -e "\e[1;33;40m ~~~ Ping Storm Status ~~~ \e[0m"
-
+			./Res_analyzing.sh >> pingstorm.log
+			menu
 			;;
 		"Show")
 			echo "    "

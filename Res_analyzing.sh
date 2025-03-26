@@ -1,8 +1,8 @@
 #! /bin/bash
 
-echo " "
-echo -e "\e[1;31;41m   Website     Min      Max  \e[0m"
-echo "-----------------------------"
+echo " " | tee -a pingstorm.log
+echo -e "\e[1;31;41m   Website     Min      Max  \e[0m" | tee -a pingstorm.log
+echo "-----------------------------" | tee -a pingstorm.log
 
 while read -r line; do
     function sorting {
@@ -13,17 +13,17 @@ while read -r line; do
     #echo "---------------------------"
 done <DataLog.txt
 
-sorting
+sorting | tee -a pingstorm.log
 
 sorting | grep -v "N/A" | awk '{print $1 " " $2}' >noErrorLog.txt
 
-printf "\n\e[1;33;43m     Summary of the results     \e[0m\n"
-echo "--------------------------------"
+printf "\n\e[1;33;43m     Summary of the results     \e[0m\n" | tee -a pingstorm.log
+echo "--------------------------------" | tee -a pingstorm.log
 
 fastest=$(cat noErrorLog.txt | tail -n 1)
-printf "\e[1;32mFastest: %-13s %-1s ms\e[0m\n" $(echo $fastest | awk '{print $1, $2}')
+printf "\e[1;32mFastest: %-13s %-1s ms\e[0m\n" $(echo $fastest | awk '{print $1, $2}') | tee -a pingstorm.log
 slowest=$(cat noErrorLog.txt | head -n 1)
-printf "\e[1;31mSlowest: %-13s %-1s ms\e[0m\n" $(echo $slowest | awk '{print $1, $2}')
+printf "\e[1;31mSlowest: %-13s %-1s ms\e[0m\n" $(echo $slowest | awk '{print $1, $2}') | tee -a pingstorm.log
 
 #Calulating average latency
 mapfile -t numbers < <(sorting | awk '{print $3}')
@@ -35,7 +35,7 @@ for num in "${numbers[@]}"; do
     ((count++))
 done
 
-average=$(echo "scale=3; $sum / $count" | bc)
-echo -e "\e[1;33mAverage: $average\e[0m"
+average=$(echo "scale=3; $sum / $count" | bc) | tee -a pingstorm.log
+echo -e "\e[1;33mAverage: $average\e[0m" | tee -a pingstorm.log
 
 echo " "

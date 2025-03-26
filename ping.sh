@@ -32,9 +32,18 @@ echo "----------------------------------------------"
 #echo "Website       Min      Avg      Max      Mdev" >>DataLog.txt
 #echo "----------------------------------------------" >>DataLog.txt
 
+# echoing Date and Time to pingstorm.log
+echo " " >>pingstorm.log
+echo "----------------------------------------------" >>pingstorm.log
+echo "~~~~~~~~~~~ $(date '+%Y %m %d %H:%M:%S') ~~~~~~~~~~~~~~" >>pingstorm.log
+echo "----------------------------------------------" >>pingstorm.log
+
 # Loop services
 for site in "${services[@]}"; do
-    ping_result=$(ping -c $num_pings $site 2>/dev/null | grep "^rtt min")
+    echo " " >>pingstorm.log
+    echo "***" >>pingstorm.log
+    #ping_result=$(ping -c $num_pings $site 2>/dev/null | grep "^rtt min")
+    ping_result=$(ping -c $num_pings $site 2>&1 | tee -a pingstorm.log | grep "^rtt min")
     #We need to add a packet loss condition
     if [ ! -z "$ping_result" ]; then
         # format output
