@@ -1,0 +1,1 @@
+1 packets transmitted, 1 received, 50% packet loss, time 0ms
