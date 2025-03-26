@@ -1,0 +1,5 @@
+youtube.com,31ms 
+tiktok.com,37ms 
+netflix.com,50ms 
+google.com,23ms 
+facebook.com,42ms 

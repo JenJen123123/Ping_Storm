@@ -1,0 +1,48 @@
+[1;31m~~~ Pinging [36mgoogle.com[0m ~~~
+
+Pinging google.com [2a00:1450:4028:805::200e] with 32 bytes of data:
+Reply from 2a00:1450:4028:805::200e: time=7ms 
+Reply from 2a00:1450:4028:805::200e: time=7ms 
+Reply from 2a00:1450:4028:805::200e: time=7ms 
+
+Ping statistics for 2a00:1450:4028:805::200e:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 7ms, Maximum = 7ms, Average = 7ms
+-----------------------------------
+[1;31m~~~ Pinging [36mfacebook.com[0m ~~~
+
+Pinging facebook.com [2a03:2880:f142:182:face:b00c:0:25de] with 32 bytes of data:
+Reply from 2a03:2880:f142:182:face:b00c:0:25de: time=58ms 
+Reply from 2a03:2880:f142:182:face:b00c:0:25de: time=58ms 
+Reply from 2a03:2880:f142:182:face:b00c:0:25de: time=58ms 
+
+Ping statistics for 2a03:2880:f142:182:face:b00c:0:25de:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 58ms, Maximum = 58ms, Average = 58ms
+-----------------------------------
+[1;31m~~~ Pinging [36mtiktok.com[0m ~~~
+
+Pinging tiktok.com [212.25.69.168] with 32 bytes of data:
+Reply from 212.25.69.168: bytes=32 time=6ms TTL=55
+Reply from 212.25.69.168: bytes=32 time=5ms TTL=55
+Reply from 212.25.69.168: bytes=32 time=7ms TTL=55
+
+Ping statistics for 212.25.69.168:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 7ms, Average = 6ms
+-----------------------------------
+[1;31m~~~ Pinging [36myoutube.com[0m ~~~
+
+Pinging youtube.com [2a00:1450:4028:805::200e] with 32 bytes of data:
+Reply from 2a00:1450:4028:805::200e: time=6ms 
+Reply from 2a00:1450:4028:805::200e: time=6ms 
+Reply from 2a00:1450:4028:805::200e: time=7ms 
+
+Ping statistics for 2a00:1450:4028:805::200e:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 6ms, Maximum = 7ms, Average = 6ms
+-----------------------------------

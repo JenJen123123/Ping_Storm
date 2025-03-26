@@ -1,0 +1,23 @@
+[2025-03-26 22:00:00] [CONTROL] Placeholder log created for submission.
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 23:59:01 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+youtube.com,31ms                  
+tiktok.com,37ms                  
+netflix.com,50ms                  
+google.com,23ms                  
+facebook.com,42ms                  
+ 
+     Summary of the results     
+--------------------------------
+Fastest: 
+facebook.com,42ms 
+Slowest: 
+youtube.com,31ms 
+Average: 
+[2025-03-27 00:04:31] [CONTROL] Command: 
