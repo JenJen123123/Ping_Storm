@@ -10,19 +10,54 @@ select comd in "${options[@]}"; do
 			echo -e "\e[1;33;40m ~~~ Starting Ping Storm ~~~ \e[0m"
 			echo "    "
 			if [[ $PING_PID -ne 0 ]] && ps -p $PING_PID > /dev/null; then
-				echo "PingStorm is already running (PID: $PING_STORM)"
+				echo "Ping Storm is already running (PID: $PING_STORM)"
+				echo "    "
+                                echo "1) Start"
+                                echo "2) Stop"
+                                echo "3) Status"
+                                echo "4) Show"
+                                echo "5) Quit"
+
 			else
 				./ping.sh > pingstorm.log 2>&1 &
 				PING_PID=$!
-				echo "PingStorm started in background (PID : $PING_PID)"
+				echo "Ping Storm started in background (PID : $PING_PID)"
 				echo "Output is beingsaved to pingstorm.log"
+				echo "    "
+                                echo "1) Start"
+                                echo "2) Stop"
+                                echo "3) Status"
+                                echo "4) Show"
+                                echo "5) Quit"
+
 			fi
 			;;
 		"Stop")
 			##continue stop option##
 			echo "    "
-			echo "Stoping..."
 			if [[ $PING_PID -ne "0" ]]; then
+				echo -e "\e[1;33;40m ~~~ Stoping Ping Storm ~~~ \e[0m"
+				echo "    "
+				kill $PING_PID
+				echo "Ping Storm successfully stopped!"
+				echo "    "
+				echo "1) Start"
+				echo "2) Stop"
+				echo "3) Status"
+				echo "4) Show"
+				echo "5) Quit"
+				PING_PID=0
+			else
+				echo -e "\e[1;33;31m ~~~ Ping Storm is not running ~~~ \e[0m"
+				PING_PID=0
+				echo "    "
+                                echo "1) Start"
+                                echo "2) Stop"
+                                echo "3) Status"
+                                echo "4) Show"
+                                echo "5) Quit"
+
+			fi
 
 			;;
 		"Status")
