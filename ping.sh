@@ -2,35 +2,6 @@
 
 # Script to ping a list of websites and display the results in a formatted table
 
-packetLossCheck() {
-    packet_loss=0
-    flag=0
-
-    for read in $(cat test.txt); do
-        #echo $read
-
-        if [[ $flag -eq 1 ]]; then
-            packet_loss=$read
-            break
-        fi
-
-        if [[ $read == "received," ]]; then
-            flag=1
-        fi
-    done
-
-    packet_loss=$(echo $packet_loss | cut -d'%' -f1)
-
-    if [[ $packet_loss -gt 30 ]]; then
-        echo -e "\e[1;31;41mPacket loss is high: $packet_loss%\e[0m"
-    elif [[ $packet_loss -gt 0 ]]; then
-        echo -e "\e[1;32;42mPacket loss is acceptable: $packet_loss%\e[0m"
-    else
-        echo -e "\e[1;34;44mNo packet loss: $packet_loss%\e[0m"
-    fi
-
-}
-
 # Function to handle errors
 error() {
     echo "$(date '+%Y %m %d %H:%M:%S')" "$site" "Didn't send any answer" >>Error.log
@@ -48,7 +19,7 @@ services=(
 )
 
 # Number of pings to send
-num_pings=1 # Change this to the number of pings you want to send
+num_pings=2 # Change this to the number of pings you want to send
 
 # Print header
 echo " "
@@ -88,5 +59,3 @@ done
 echo "----------------------------------------------"
 echo -e "\e[1;31;44m~~~~~~~~~~~~~ End Of Ping Script ~~~~~~~~~~~~~\e[0m"
 echo " "
-
-#exit 0
