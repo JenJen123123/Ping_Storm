@@ -19,14 +19,18 @@ services=(
 )
 
 # Number of pings to send
-num_pings=2 # Change this to the number of pings you want to send
+num_pings=4 # Change this to the number of pings you want to send
 
 # Print header
 echo " "
-echo -e "\e[1;31;41mWebsite       Min      Avg      Max      Mdev\e[0m"
+echo -e "\e[1;32mSending $num_pings ping(s) to each website and summarizing the results\e[0m"
+echo " "
+echo -e "\e[1;33mPlease wait...\e[0m"
+echo " "
+echo -e "\e[1;31;41mWebsite       Min      Avg      Max      Mdev \e[0m"
 echo "----------------------------------------------"
 #echo "Website       Min      Avg      Max      Mdev" >>DataLog.txt
-echo "----------------------------------------------" >>DataLog.txt
+#echo "----------------------------------------------" >>DataLog.txt
 
 # Loop services
 for site in "${services[@]}"; do
