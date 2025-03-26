@@ -1,5 +1,8 @@
 #! /bin/bash
 
+
+set -x
+
 echo " " >>pingstorm.log
 echo "----------------------------------------------" >>pingstorm.log
 echo "~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~" >>pingstorm.log

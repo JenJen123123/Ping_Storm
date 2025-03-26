@@ -1,0 +1,26 @@
+  
+[1;31;41m   Website     Min      Max  [0m
+-----------------------------
+facebook.com  66.318   66.318  
+facebook.com  24.149   24.149  
+facebook.com  24.120   24.120  
+google.com    9.208    9.208   
+google.com    8.890    8.890   
+tiktok.com    8.272    8.272   
+tiktok.com    8.204    8.204   
+tiktok.com    8.112    8.112   
+google.com    7.779    7.779   
+youtube.com   7.743    7.743   
+youtube.com   7.711    7.711   
+youtube.com   6.851    6.851   
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+
+[1;33;43m     Summary of the results     [0m
+--------------------------------
+Fastest: youtube.com 6.851
+[1;32mFastest: youtube.com   6.851 ms[0m
+Slowest: facebook.com 66.318
+[1;31mSlowest: facebook.com  66.318 ms[0m
+[1;33mAverage: 13.668[0m
+ 

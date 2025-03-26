@@ -235,3 +235,242 @@ youtube.com 6.851
 Slowest: 
 facebook.com 66.318
 Average: 13.668
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 18:52:31 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  66.318   66.318  
+facebook.com  24.149   24.149  
+facebook.com  24.120   24.120  
+google.com    9.208    9.208   
+google.com    8.890    8.890   
+tiktok.com    8.272    8.272   
+tiktok.com    8.204    8.204   
+tiktok.com    8.112    8.112   
+google.com    7.779    7.779   
+youtube.com   7.743    7.743   
+youtube.com   7.711    7.711   
+youtube.com   6.851    6.851   
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+ 
+     Summary of the results     
+--------------------------------
+Fastest: 
+[1;32mFastest: youtube.com   6.851 ms[0m
+Slowest: 
+[1;31mSlowest: facebook.com  66.318 ms[0m
+Average: 13.668
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 18:55:08 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+ 
+     Summary of the results     
+--------------------------------
+Fastest: 
+[1;32mFastest: youtube.com   6.851 ms[0m
+Slowest: 
+[1;31mSlowest: facebook.com  66.318 ms[0m
+Average: 13.668
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 18:55:27 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  66.318   66.318  
+facebook.com  24.149   24.149  
+facebook.com  24.120   24.120  
+google.com    9.208    9.208   
+google.com    8.890    8.890   
+tiktok.com    8.272    8.272   
+tiktok.com    8.204    8.204   
+tiktok.com    8.112    8.112   
+google.com    7.779    7.779   
+youtube.com   7.743    7.743   
+youtube.com   7.711    7.711   
+youtube.com   6.851    6.851   
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+ 
+     Summary of the results     
+--------------------------------
+Fastest: 
+Slowest: 
+Average: 13.668
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 18:56:15 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  66.318   66.318  
+facebook.com  24.149   24.149  
+facebook.com  24.120   24.120  
+google.com    9.208    9.208   
+google.com    8.890    8.890   
+tiktok.com    8.272    8.272   
+tiktok.com    8.204    8.204   
+tiktok.com    8.112    8.112   
+google.com    7.779    7.779   
+youtube.com   7.743    7.743   
+youtube.com   7.711    7.711   
+youtube.com   6.851    6.851   
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 18:57:22 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  66.318   66.318  
+facebook.com  24.149   24.149  
+facebook.com  24.120   24.120  
+google.com    9.208    9.208   
+google.com    8.890    8.890   
+tiktok.com    8.272    8.272   
+tiktok.com    8.204    8.204   
+tiktok.com    8.112    8.112   
+google.com    7.779    7.779   
+youtube.com   7.743    7.743   
+youtube.com   7.711    7.711   
+youtube.com   6.851    6.851   
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+ 
+     Summary of the results     
+--------------------------------
+Fastest: 
+Fastest: youtube.com 6.851
+[1;32mFastest: youtube.com   6.851 ms[0m
+Slowest: facebook.com 66.318
+[1;31mSlowest: facebook.com  66.318 ms[0m
+Average: 13.668
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 18:59:25 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  66.318   66.318  
+facebook.com  24.149   24.149  
+facebook.com  24.120   24.120  
+google.com    9.208    9.208   
+google.com    8.890    8.890   
+tiktok.com    8.272    8.272   
+tiktok.com    8.204    8.204   
+tiktok.com    8.112    8.112   
+google.com    7.779    7.779   
+youtube.com   7.743    7.743   
+youtube.com   7.711    7.711   
+youtube.com   6.851    6.851   
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+ 
+     Summary of the results     
+--------------------------------
+Fastest: youtube.com 6.851
+Slowest: facebook.com 66.318
+Average: 13.668
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 19:01:19 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  66.318   66.318  
+facebook.com  24.149   24.149  
+facebook.com  24.120   24.120  
+google.com    9.208    9.208   
+google.com    8.890    8.890   
+tiktok.com    8.272    8.272   
+tiktok.com    8.204    8.204   
+tiktok.com    8.112    8.112   
+google.com    7.779    7.779   
+youtube.com   7.743    7.743   
+youtube.com   7.711    7.711   
+youtube.com   6.851    6.851   
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+ 
+     Summary of the results     
+--------------------------------
+Fastest: youtube.com 6.851
+Slowest: facebook.com 66.318
+Average: 13.668
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 19:01:42 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  66.318   66.318  
+facebook.com  24.149   24.149  
+facebook.com  24.120   24.120  
+google.com    9.208    9.208   
+google.com    8.890    8.890   
+tiktok.com    8.272    8.272   
+tiktok.com    8.204    8.204   
+tiktok.com    8.112    8.112   
+google.com    7.779    7.779   
+youtube.com   7.743    7.743   
+youtube.com   7.711    7.711   
+youtube.com   6.851    6.851   
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+ 
+     Summary of the results     
+--------------------------------
+Fastest: youtube.com 6.851
+Slowest: facebook.com 66.318
+Average: 13.668
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 19:02:38 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  66.318   66.318  
+facebook.com  24.149   24.149  
+facebook.com  24.120   24.120  
+google.com    9.208    9.208   
+google.com    8.890    8.890   
+tiktok.com    8.272    8.272   
+tiktok.com    8.204    8.204   
+tiktok.com    8.112    8.112   
+google.com    7.779    7.779   
+youtube.com   7.743    7.743   
+youtube.com   7.711    7.711   
+youtube.com   6.851    6.851   
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+ 
+     Summary of the results     
+--------------------------------
+Fastest: youtube.com 6.851
+Slowest: facebook.com 66.318
+Average: 13.668
