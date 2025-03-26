@@ -1,10 +1,5 @@
-google.com    7.046    7.046    7.046    0.000   
-facebook.com  43.659   43.659   43.659   0.000   
-tiktok.com    5.183    5.183    5.183    0.000   
-youtube.com   6.087    6.087    6.087    0.000   
-netflix.com   N/A      N/A      N/A      N/A     
-google.com    5.317    5.317    5.317    0.000   
-facebook.com  49.454   49.454   49.454   0.000   
-tiktok.com    5.570    5.570    5.570    0.000   
-youtube.com   5.438    5.438    5.438    0.000   
+google.com    6.061    6.061    6.061    0.000   
+facebook.com  45.286   45.286   45.286   0.000   
+tiktok.com    4.760    4.760    4.760    0.000   
+youtube.com   6.694    6.694    6.694    0.000   
 netflix.com   N/A      N/A      N/A      N/A     
