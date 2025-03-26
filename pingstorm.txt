@@ -1,0 +1,44 @@
+[1;31m ~~~ Pinging [36mgoogle.com[0m ~~~ [0m
+PING google.com (2a00:1450:4028:80a::200e) 56 data bytes
+64 bytes from lctlvq-ad-in-x0e.1e100.net (2a00:1450:4028:80a::200e): icmp_seq=1 ttl=116 time=17.0 ms
+64 bytes from lctlvq-ad-in-x0e.1e100.net (2a00:1450:4028:80a::200e): icmp_seq=2 ttl=116 time=18.7 ms
+64 bytes from lctlvq-ad-in-x0e.1e100.net (2a00:1450:4028:80a::200e): icmp_seq=3 ttl=116 time=17.5 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 17.021/17.721/18.684/0.703 ms
+-----------------------------------
+[1;31m ~~~ Pinging [36mfacebook.com[0m ~~~ [0m
+PING facebook.com (2a03:2880:f189:80:face:b00c:0:25de) 56 data bytes
+64 bytes from edge-star-mini6-shv-01-lhr6.facebook.com (2a03:2880:f189:80:face:b00c:0:25de): icmp_seq=1 ttl=53 time=70.5 ms
+64 bytes from edge-star-mini6-shv-01-lhr6.facebook.com (2a03:2880:f189:80:face:b00c:0:25de): icmp_seq=2 ttl=53 time=70.9 ms
+64 bytes from edge-star-mini6-shv-01-lhr6.facebook.com (2a03:2880:f189:80:face:b00c:0:25de): icmp_seq=3 ttl=53 time=68.3 ms
+
+--- facebook.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 68.262/69.906/70.920/1.173 ms
+-----------------------------------
+[1;31m ~~~ Pinging [36mtiktok.com[0m ~~~ [0m
+PING tiktok.com (213.57.23.153) 56(84) bytes of data.
+64 bytes from 213.57.23.153: icmp_seq=1 ttl=58 time=13.2 ms
+64 bytes from 213.57.23.153: icmp_seq=2 ttl=58 time=12.8 ms
+64 bytes from 213.57.23.153: icmp_seq=3 ttl=58 time=10.8 ms
+
+--- tiktok.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 10.799/12.263/13.208/1.049 ms
+-----------------------------------
+[1;31m ~~~ Pinging [36myoutube.com[0m ~~~ [0m
+PING youtube.com (2a00:1450:4028:800::200e) 56 data bytes
+64 bytes from tztlva-ac-in-x0e.1e100.net (2a00:1450:4028:800::200e): icmp_seq=1 ttl=118 time=12.0 ms
+64 bytes from tztlva-ac-in-x0e.1e100.net (2a00:1450:4028:800::200e): icmp_seq=2 ttl=118 time=12.9 ms
+64 bytes from tztlva-ac-in-x0e.1e100.net (2a00:1450:4028:800::200e): icmp_seq=3 ttl=118 time=12.2 ms
+
+--- youtube.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 11.950/12.371/12.948/0.422 ms
+-----------------------------------
+google.com    17.412   17.412   17.412   0.000   
+facebook.com  69.238   69.238   69.238   0.000   
+tiktok.com    10.903   10.903   10.903   0.000   
+youtube.com   14.575   14.575   14.575   0.000   

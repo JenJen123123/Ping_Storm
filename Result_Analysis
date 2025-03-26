@@ -1,15 +1,25 @@
 #! /bin/bash
 
+#LOGS_FILE="Results_analysis.log"
+#echo "--------------------------" && tee -A '{
 
+#speed_test
+
+echo "Tested 5 services"
+echo "ON DATE: $(date)"
+echo 'Web Site     --     Avg speed'
+echo '-----------------------------'
 while read -r line;do
-function sorting  {
-#echo 'Web Site -- Avg speed'
-#echo '---------------------------'
+function sorting {
+#echo 'Web Site     --     Avg speed'
+#echo '-----------------------------'
 awk 'NR>0{print $1, $3}' ping_results.csv | sort -k2 -nr
-}
 #echo "---------------------------" 
+}
 done <ping_results.csv
-sorting
+sorting 
+
+#Extracting fstest and slowest responding services
 fastest=$(sorting | tail -n 1)
 echo "Fastest: $fastest ms"
 slowest=$(sorting | head -n 1)
@@ -27,7 +37,13 @@ for num in "${numbers[@]}"; do
 done
 
 average=$(echo "scale=3; $sum / $count" | bc)  
+<<<<<<< HEAD
 echo "Average: $average"
+=======
+echo -e "\033[33m Average Latency: $average ms\033[0m"
+echo "---------------------------" 
+>>>>>>> 2daa3be (Added speed test function)
 
 
+#}' >> "$LOG_FILE"
 
