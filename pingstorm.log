@@ -1,0 +1,167 @@
+ 
+----------------------------------------------
+~~~~~~ 2025 03 26 17:12:41 ~~~~~~~~~
+----------------------------------------------
+ 
+ 
+PING google.com (142.250.75.110) 56(84) bytes of data.
+64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=1 ttl=128 time=5.94 ms
+
+--- google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.944/5.944/5.944/0.000 ms
+ 
+PING facebook.com (157.240.196.35) 56(84) bytes of data.
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=1 ttl=128 time=49.7 ms
+
+--- facebook.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 49.734/49.734/49.734/0.000 ms
+ 
+PING tiktok.com (104.77.202.80) 56(84) bytes of data.
+64 bytes from a104-77-202-80.deploy.static.akamaitechnologies.com (104.77.202.80): icmp_seq=1 ttl=128 time=3.77 ms
+
+--- tiktok.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.769/3.769/3.769/0.000 ms
+ 
+PING youtube.com (142.250.75.110) 56(84) bytes of data.
+64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=1 ttl=128 time=6.55 ms
+
+--- youtube.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 6.546/6.546/6.546/0.000 ms
+ 
+----------------------------------------------
+~~~~~~~~~~ 2025 03 26 17:12:52 ~~~~~~~~~~~~~
+----------------------------------------------
+ 
+ 
+PING google.com (142.250.75.110) 56(84) bytes of data.
+64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=1 ttl=128 time=5.33 ms
+
+--- google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.328/5.328/5.328/0.000 ms
+ 
+PING facebook.com (157.240.196.35) 56(84) bytes of data.
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=1 ttl=128 time=43.5 ms
+
+--- facebook.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 43.534/43.534/43.534/0.000 ms
+ 
+PING tiktok.com (212.25.69.136) 56(84) bytes of data.
+64 bytes from bzq-25-69-136.cust.bezeqint.net (212.25.69.136): icmp_seq=1 ttl=128 time=5.87 ms
+
+--- tiktok.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.873/5.873/5.873/0.000 ms
+ 
+PING youtube.com (142.250.75.78) 56(84) bytes of data.
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=1 ttl=128 time=6.42 ms
+
+--- youtube.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 6.423/6.423/6.423/0.000 ms
+ 
+----------------------------------------------
+~~~~~~~~~~~ 2025 03 26 17:13:03 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+ 
+PING google.com (142.250.75.46) 56(84) bytes of data.
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=1 ttl=128 time=7.42 ms
+
+--- google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 7.424/7.424/7.424/0.000 ms
+ 
+PING facebook.com (157.240.196.35) 56(84) bytes of data.
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=1 ttl=128 time=49.5 ms
+
+--- facebook.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 49.497/49.497/49.497/0.000 ms
+ 
+PING tiktok.com (212.25.69.168) 56(84) bytes of data.
+64 bytes from bzq-25-69-168.cust.bezeqint.net (212.25.69.168): icmp_seq=1 ttl=128 time=6.70 ms
+
+--- tiktok.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 6.695/6.695/6.695/0.000 ms
+ 
+PING youtube.com (142.250.75.78) 56(84) bytes of data.
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=1 ttl=128 time=5.69 ms
+
+--- youtube.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.685/5.685/5.685/0.000 ms
+ 
+----------------------------------------------
+~~~~~~~~~~~ 2025 03 26 17:13:18 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+PING google.com (142.250.75.142) 56(84) bytes of data.
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=1 ttl=128 time=5.46 ms
+
+--- google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.460/5.460/5.460/0.000 ms
+ 
+PING facebook.com (157.240.196.35) 56(84) bytes of data.
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=1 ttl=128 time=51.3 ms
+
+--- facebook.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 51.286/51.286/51.286/0.000 ms
+ 
+PING tiktok.com (104.77.202.89) 56(84) bytes of data.
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=1 ttl=128 time=6.01 ms
+
+--- tiktok.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 6.007/6.007/6.007/0.000 ms
+ 
+PING youtube.com (142.250.75.46) 56(84) bytes of data.
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=1 ttl=128 time=6.75 ms
+
+--- youtube.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 6.748/6.748/6.748/0.000 ms
+ 
+----------------------------------------------
+~~~~~~~~~~~ 2025 03 26 17:13:58 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+***
+PING google.com (142.250.75.110) 56(84) bytes of data.
+64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=1 ttl=128 time=7.33 ms
+
+--- google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 7.331/7.331/7.331/0.000 ms
+ 
+***
+PING facebook.com (157.240.196.35) 56(84) bytes of data.
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=1 ttl=128 time=50.7 ms
+
+--- facebook.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 50.746/50.746/50.746/0.000 ms
+ 
+***
+PING tiktok.com (104.77.202.81) 56(84) bytes of data.
+64 bytes from a104-77-202-81.deploy.static.akamaitechnologies.com (104.77.202.81): icmp_seq=1 ttl=128 time=5.00 ms
+
+--- tiktok.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.004/5.004/5.004/0.000 ms
+ 
+***
+PING youtube.com (142.250.75.46) 56(84) bytes of data.
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=1 ttl=128 time=5.35 ms
+
+--- youtube.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.349/5.349/5.349/0.000 ms
