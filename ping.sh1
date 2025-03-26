@@ -10,7 +10,7 @@ services=(
 function speed_test () {
 read -p "choose a name for a speed test: "  TESTID
 echo $TESTID
-export $TESTID
+#export $TESTID
 
 #num_services=${#services[@]}
 #echo $num_services
@@ -56,4 +56,4 @@ echo " "
 
 speed_test 
 
-export $speed_test
+#export $speed_test
