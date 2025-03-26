@@ -42,11 +42,14 @@ echo " " >>pingstorm.log
 echo "     Summary of the results     " >>pingstorm.log
 echo "--------------------------------" >>pingstorm.log
 echo "Fastest: " >>pingstorm.log
-fastest=$(cat noErrorLog.txt | tail -n 1)
-printf "\e[1;32mFastest: %-13s %-1s ms\e[0m\n" $(echo $fastest | awk '{print $1, $2}' ) | tee -a pingstorm.log
-echo "Slowest: " >>pingstorm.log
-slowest=$(cat noErrorLog.txt | head -n 1)
-printf "\e[1;31mSlowest: %-13s %-1s ms\e[0m\n" $(echo $slowest | awk '{print $1, $2}' ) | tee -a pingstorm.log
+fastest=$(tail -n 1 noErrorLog.txt)
+echo "Fastest: $fastest" >> pingstorm.log
+printf "\e[1;32mFastest: %-13s %-1s ms\e[0m\n" $(awk '{print $1, $2}' <<< "$fastest") | tee -a pingstorm.log
+
+slowest=$(head -n 1 noErrorLog.txt)
+echo "Slowest: $slowest" >> pingstorm.log
+printf "\e[1;31mSlowest: %-13s %-1s ms\e[0m\n" $(awk '{print $1, $2}' <<< "$slowest") | tee -a pingstorm.log
+
 
 #Calulating average latency
 mapfile -t numbers < <(sorting | awk '{print $3}')
