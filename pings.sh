@@ -25,8 +25,7 @@ echo "----------------------------------------------"
 
 # Loop services
 for site in "${services[@]}"; do
-    ping_result=$(ping -c $num_pings $site 2>/dev/null | grep "^rtt min")
-echo "$ping_result" 
+    ping_result=$(ping -c $num_pings $site 2>/dev/null | grep "^rtt min") 
 #We need to add a packet loss condition
     if [ ! -z "$ping_result" ]; then
         # format output
@@ -56,4 +55,3 @@ echo " "
 }
 
 speed_test 
-export -f speed_test
