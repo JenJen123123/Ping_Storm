@@ -15,7 +15,7 @@ services=(
     "facebook.com"
     "tiktok.com"
     "youtube.com"
-    #"netflix.com"
+    "netflix.com"
 )
 
 # Number of pings to send
@@ -35,6 +35,7 @@ echo "----------------------------------------------"
 # echoing Date and Time to pingstorm.log
 echo " " >>pingstorm.log
 echo "----------------------------------------------" >>pingstorm.log
+echo "~~~~~~~~~~ Ping Test with $num_pings ping(s) ~~~~~~~~~~" >>pingstorm.log
 echo "~~~~~~~~~~~ $(date '+%Y %m %d %H:%M:%S') ~~~~~~~~~~~~~~" >>pingstorm.log
 echo "----------------------------------------------" >>pingstorm.log
 

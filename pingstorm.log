@@ -1,140 +1,237 @@
  
 ----------------------------------------------
-~~~~~~~~~~~ 2025 03 26 15:22:12 ~~~~~~~~~~~~~~
+~~~~~~~~~~ Ping Test with 1 ping(s) ~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 16:23:12 ~~~~~~~~~~~~~~
 ----------------------------------------------
  
 ***
 PING google.com (142.251.33.78) 56(84) bytes of data.
-64 bytes from sea09s28-in-f14.1e100.net (142.251.33.78): icmp_seq=1 ttl=117 time=8.43 ms
+64 bytes from sea09s28-in-f14.1e100.net (142.251.33.78): icmp_seq=1 ttl=117 time=8.89 ms
 
 --- google.com ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 8.434/8.434/8.434/0.000 ms
+rtt min/avg/max/mdev = 8.890/8.890/8.890/0.000 ms
  
 ***
-PING facebook.com (31.13.70.36) 56(84) bytes of data.
-64 bytes from edge-star-mini-shv-01-lax3.facebook.com (31.13.70.36): icmp_seq=1 ttl=55 time=26.4 ms
+PING facebook.com (157.240.19.35) 56(84) bytes of data.
+64 bytes from edge-star-mini-shv-01-dfw5.facebook.com (157.240.19.35): icmp_seq=1 ttl=48 time=66.3 ms
 
 --- facebook.com ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 26.408/26.408/26.408/0.000 ms
+rtt min/avg/max/mdev = 66.318/66.318/66.318/0.000 ms
  
 ***
 PING tiktok.com (23.46.228.170) 56(84) bytes of data.
-64 bytes from a23-46-228-170.deploy.static.akamaitechnologies.com (23.46.228.170): icmp_seq=1 ttl=54 time=8.33 ms
+64 bytes from a23-46-228-170.deploy.static.akamaitechnologies.com (23.46.228.170): icmp_seq=1 ttl=54 time=8.20 ms
 
 --- tiktok.com ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 8.325/8.325/8.325/0.000 ms
+rtt min/avg/max/mdev = 8.204/8.204/8.204/0.000 ms
  
 ***
 PING youtube.com (142.251.33.78) 56(84) bytes of data.
-64 bytes from sea09s28-in-f14.1e100.net (142.251.33.78): icmp_seq=1 ttl=117 time=6.71 ms
+64 bytes from sea09s28-in-f14.1e100.net (142.251.33.78): icmp_seq=1 ttl=117 time=7.74 ms
 
 --- youtube.com ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 6.714/6.714/6.714/0.000 ms
+rtt min/avg/max/mdev = 7.743/7.743/7.743/0.000 ms
  
+***
+PING netflix.com (52.38.7.83) 56(84) bytes of data.
+
+--- netflix.com ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 16:24:23 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  66.318   66.318  
+google.com    8.890    8.890   
+tiktok.com    8.204    8.204   
+youtube.com   7.743    7.743   
+netflix.com   N/A      N/A     
+ 
+     Summary of the results     
+--------------------------------
+Fastest: 
+youtube.com 7.743
+Slowest: 
+facebook.com 66.318
+Average: 18.631
+ 
+----------------------------------------------
+~~~~~~~~~~ Ping Test with 1 ping(s) ~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 16:25:44 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+***
+PING google.com (142.251.33.78) 56(84) bytes of data.
+64 bytes from sea09s28-in-f14.1e100.net (142.251.33.78): icmp_seq=1 ttl=117 time=7.78 ms
+
+--- google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 7.779/7.779/7.779/0.000 ms
+ 
+***
+PING facebook.com (31.13.70.36) 56(84) bytes of data.
+64 bytes from edge-star-mini-shv-01-lax3.facebook.com (31.13.70.36): icmp_seq=1 ttl=55 time=24.1 ms
+
+--- facebook.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.149/24.149/24.149/0.000 ms
+ 
+***
+PING tiktok.com (23.46.228.176) 56(84) bytes of data.
+64 bytes from a23-46-228-176.deploy.static.akamaitechnologies.com (23.46.228.176): icmp_seq=1 ttl=54 time=8.27 ms
+
+--- tiktok.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 8.272/8.272/8.272/0.000 ms
+ 
+***
+PING youtube.com (142.251.33.78) 56(84) bytes of data.
+64 bytes from sea09s28-in-f14.1e100.net (142.251.33.78): icmp_seq=1 ttl=117 time=7.71 ms
+
+--- youtube.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 7.711/7.711/7.711/0.000 ms
+ 
+***
+PING netflix.com (52.38.7.83) 56(84) bytes of data.
+
+--- netflix.com ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+ 
+----------------------------------------------
+~~~~~~~~~~ Ping Test with 1 ping(s) ~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 16:28:31 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+***
+PING google.com (142.250.217.110) 56(84) bytes of data.
+64 bytes from sea09s30-in-f14.1e100.net (142.250.217.110): icmp_seq=1 ttl=117 time=9.21 ms
+
+--- google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 9.208/9.208/9.208/0.000 ms
+ 
+***
+PING facebook.com (157.240.11.35) 56(84) bytes of data.
+64 bytes from edge-star-mini-shv-02-lax3.facebook.com (157.240.11.35): icmp_seq=1 ttl=55 time=24.1 ms
+
+--- facebook.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 24.120/24.120/24.120/0.000 ms
+ 
+***
+PING tiktok.com (23.46.228.176) 56(84) bytes of data.
+64 bytes from a23-46-228-176.deploy.static.akamaitechnologies.com (23.46.228.176): icmp_seq=1 ttl=54 time=8.11 ms
+
+--- tiktok.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 8.112/8.112/8.112/0.000 ms
+ 
+***
+PING youtube.com (142.250.217.78) 56(84) bytes of data.
+64 bytes from sea09s29-in-f14.1e100.net (142.250.217.78): icmp_seq=1 ttl=55 time=6.85 ms
+
+--- youtube.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 6.851/6.851/6.851/0.000 ms
+ 
+***
+PING netflix.com (44.242.60.85) 56(84) bytes of data.
+
+--- netflix.com ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 16:28:45 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+  
 [1;31;41m   Website     Min      Max  [0m
 -----------------------------
-facebook.com  64.402   64.929  
-facebook.com  64.230   64.748  
-facebook.com  47.264   47.264  
-facebook.com  46.459   46.459  
-facebook.com  26.408   26.408  
-facebook.com  25.250   25.624  
-facebook.com  25.221   25.884  
-facebook.com  25.186   25.186  
-facebook.com  24.128   24.128  
-facebook.com  23.849   24.851  
-tiktok.com    10.914   11.699  
-tiktok.com    9.662    10.060  
-google.com    8.622    9.097   
-google.com    8.434    8.434   
-youtube.com   8.421    8.421   
-google.com    8.409    8.409   
-tiktok.com    8.325    8.325   
-youtube.com   8.284    8.284   
-tiktok.com    8.155    8.590   
-tiktok.com    8.143    8.552   
-tiktok.com    8.143    8.531   
-tiktok.com    8.110    8.110   
-youtube.com   8.023    8.899   
-google.com    7.142    7.142   
-google.com    7.082    7.082   
-google.com    7.067    7.508   
-google.com    6.890    6.890   
-youtube.com   6.859    7.310   
-youtube.com   6.838    7.311   
-google.com    6.799    7.134   
-tiktok.com    6.788    6.788   
-google.com    6.729    7.295   
-youtube.com   6.714    6.714   
-youtube.com   6.624    6.898   
-youtube.com   6.544    7.003   
-google.com    6.463    7.039   
-youtube.com   6.454    6.454   
-youtube.com   5.250    5.250   
-tiktok.com    4.994    4.994   
-tiktok.com    4.418    4.418   
-                               
-                               
-                               
-                               
-                               
+   Website     Min      Max  
+-----------------------------
+facebook.com  66.318   66.318  
+facebook.com  24.149   24.149  
+facebook.com  24.120   24.120  
+google.com    9.208    9.208   
+google.com    8.890    8.890   
+tiktok.com    8.272    8.272   
+tiktok.com    8.204    8.204   
+tiktok.com    8.112    8.112   
+google.com    7.779    7.779   
+youtube.com   7.743    7.743   
+youtube.com   7.711    7.711   
+youtube.com   6.851    6.851   
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+facebook.com  66.318   66.318  
+facebook.com  24.149   24.149  
+facebook.com  24.120   24.120  
+google.com    9.208    9.208   
+google.com    8.890    8.890   
+tiktok.com    8.272    8.272   
+tiktok.com    8.204    8.204   
+tiktok.com    8.112    8.112   
+google.com    7.779    7.779   
+youtube.com   7.743    7.743   
+youtube.com   7.711    7.711   
+youtube.com   6.851    6.851   
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
 
 [1;33;43m     Summary of the results     [0m
 --------------------------------
-[1;32mFastest:                 ms[0m
-[1;31mSlowest: facebook.com  64.402 ms[0m
-[1;33mAverage: [0m
  
- 
-[1;31;41m   Website     Min      Max  [0m
------------------------------
-facebook.com  64.402   64.929  
-facebook.com  64.230   64.748  
-facebook.com  47.264   47.264  
-facebook.com  46.459   46.459  
-facebook.com  26.408   26.408  
-facebook.com  25.250   25.624  
-facebook.com  25.221   25.884  
-facebook.com  25.186   25.186  
-facebook.com  24.128   24.128  
-facebook.com  23.849   24.851  
-tiktok.com    10.914   11.699  
-tiktok.com    9.662    10.060  
-google.com    8.622    9.097   
-google.com    8.434    8.434   
-youtube.com   8.421    8.421   
-google.com    8.409    8.409   
-tiktok.com    8.325    8.325   
-youtube.com   8.284    8.284   
-tiktok.com    8.155    8.590   
-tiktok.com    8.143    8.552   
-tiktok.com    8.143    8.531   
-tiktok.com    8.110    8.110   
-youtube.com   8.023    8.899   
-google.com    7.142    7.142   
-google.com    7.082    7.082   
-google.com    7.067    7.508   
-google.com    6.890    6.890   
-youtube.com   6.859    7.310   
-youtube.com   6.838    7.311   
-google.com    6.799    7.134   
-tiktok.com    6.788    6.788   
-google.com    6.729    7.295   
-youtube.com   6.714    6.714   
-youtube.com   6.624    6.898   
-youtube.com   6.544    7.003   
-google.com    6.463    7.039   
-youtube.com   6.454    6.454   
-youtube.com   5.250    5.250   
-tiktok.com    4.994    4.994   
-tiktok.com    4.418    4.418   
-
-[1;33;43m     Summary of the results     [0m
+     Summary of the results     
 --------------------------------
-[1;32mFastest: tiktok.com    4.418 ms[0m
-[1;31mSlowest: facebook.com  64.402 ms[0m
-[1;33mAverage: [0m
+Fastest: 
+youtube.com 6.851
+[1;32mFastest: youtube.com   6.851 ms[0m
+Slowest: 
+facebook.com 66.318
+[1;31mSlowest: facebook.com  66.318 ms[0m
+[1;33mAverage: 13.668[0m
+Average: 13.668
+ 
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 16:29:38 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  66.318   66.318  
+facebook.com  24.149   24.149  
+facebook.com  24.120   24.120  
+google.com    9.208    9.208   
+google.com    8.890    8.890   
+tiktok.com    8.272    8.272   
+tiktok.com    8.204    8.204   
+tiktok.com    8.112    8.112   
+google.com    7.779    7.779   
+youtube.com   7.743    7.743   
+youtube.com   7.711    7.711   
+youtube.com   6.851    6.851   
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+ 
+     Summary of the results     
+--------------------------------
+Fastest: 
+youtube.com 6.851
+Slowest: 
+facebook.com 66.318
+Average: 13.668
