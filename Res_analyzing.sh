@@ -15,16 +15,7 @@ echo "   Website     Min      Max  " >>pingstorm.log
 echo "-----------------------------" >>pingstorm.log
 awk 'NR>0{printf "%-13s %-8s %-8s\n", $1, $2, $4}' DataLog.txt  | sort -k2 -nr >>pingstorm.log
 
-: '
-while read -r line; do
-    function sorting {
-        #echo 'Web Site -- Avg speed'
-        #echo '---------------------------'
-        awk 'NR>0{printf "%-13s %-8s %-8s\n", $1, $2, $4}' DataLog.txt  | sort -k2 -nr | tee -a pingstorm.log
-    }
-    #echo "---------------------------"
-done <DataLog.txt
-'
+
 
 function sorting {
         #echo 'Web Site -- Avg speed'
@@ -50,7 +41,9 @@ slowest=$(cat noErrorLog.txt | head -n 1)
 printf "\e[1;31mSlowest: %-13s %-1s ms\e[0m\n" $(echo $slowest | awk '{print $1, $2}' | tee -a pingstorm.log)
 
 #Calulating average latency
-mapfile -t numbers < <(sorting | awk '{print $3}')
+#mapfile -t numbers < <(sorting | awk '{print $3}')
+mapfile -t numbers < <(awk '{if ($2 ~ /^[0-9]+([.][0-9]+)?$/) print $2}' noErrorLog.txt)
+
 sum=0
 count=0
 
