@@ -48,6 +48,8 @@ for site in "${services[@]}"; do
         echo "$good_result"
         echo "$good_result" >>DataLog.txt
     else
+        printf "\e[1;31m%-13s %-8s %-8s %-8s %-8s\e[0m\n" "$site" "N/A" "N/A" "N/A" "N/A"
+        printf "%-13s %-8s %-8s %-8s %-8s\n" "$site" "N/A" "N/A" "N/A" "N/A" >>DataLog.txt
         # If error, print error message with date and site name to Error.log
         error
     fi
