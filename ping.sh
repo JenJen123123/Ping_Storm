@@ -19,7 +19,7 @@ services=(
 )
 
 # Number of pings to send
-num_pings=1 # Change this to the number of pings you want to send
+num_pings=3 # Change this to the number of pings you want to send
 
 # Print header
 echo " "
@@ -35,6 +35,7 @@ echo "----------------------------------------------"
 # echoing Date and Time to pingstorm.log
 echo " " >>pingstorm.log
 echo "----------------------------------------------" >>pingstorm.log
+echo "~~~~~~~~~~ Ping Test with $num_pings ping(s) ~~~~~~~~~~" >>pingstorm.log
 echo "~~~~~~~~~~~ $(date '+%Y %m %d %H:%M:%S') ~~~~~~~~~~~~~~" >>pingstorm.log
 echo "----------------------------------------------" >>pingstorm.log
 

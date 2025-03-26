@@ -1,167 +1,932 @@
  
 ----------------------------------------------
-~~~~~~ 2025 03 26 17:12:41 ~~~~~~~~~
+~~~~~~~~~~ Ping Test with 1 ping(s) ~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 17:37:35 ~~~~~~~~~~~~~~
 ----------------------------------------------
  
- 
-PING google.com (142.250.75.110) 56(84) bytes of data.
-64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=1 ttl=128 time=5.94 ms
+***
+PING google.com (142.250.75.174) 56(84) bytes of data.
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=1 ttl=128 time=7.29 ms
 
 --- google.com ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 5.944/5.944/5.944/0.000 ms
+rtt min/avg/max/mdev = 7.293/7.293/7.293/0.000 ms
  
+***
 PING facebook.com (157.240.196.35) 56(84) bytes of data.
-64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=1 ttl=128 time=49.7 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=1 ttl=128 time=44.9 ms
 
 --- facebook.com ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 49.734/49.734/49.734/0.000 ms
+rtt min/avg/max/mdev = 44.897/44.897/44.897/0.000 ms
  
+***
 PING tiktok.com (104.77.202.80) 56(84) bytes of data.
-64 bytes from a104-77-202-80.deploy.static.akamaitechnologies.com (104.77.202.80): icmp_seq=1 ttl=128 time=3.77 ms
+64 bytes from a104-77-202-80.deploy.static.akamaitechnologies.com (104.77.202.80): icmp_seq=1 ttl=128 time=6.41 ms
 
 --- tiktok.com ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 3.769/3.769/3.769/0.000 ms
+rtt min/avg/max/mdev = 6.409/6.409/6.409/0.000 ms
  
+***
 PING youtube.com (142.250.75.110) 56(84) bytes of data.
-64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=1 ttl=128 time=6.55 ms
+64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=1 ttl=128 time=7.66 ms
 
 --- youtube.com ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 6.546/6.546/6.546/0.000 ms
+rtt min/avg/max/mdev = 7.663/7.663/7.663/0.000 ms
  
 ----------------------------------------------
-~~~~~~~~~~ 2025 03 26 17:12:52 ~~~~~~~~~~~~~
+~~~~~~~~~~ Ping Test with 10 ping(s) ~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 17:37:50 ~~~~~~~~~~~~~~
 ----------------------------------------------
  
- 
-PING google.com (142.250.75.110) 56(84) bytes of data.
-64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=1 ttl=128 time=5.33 ms
+***
+PING google.com (142.250.75.174) 56(84) bytes of data.
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=1 ttl=128 time=4.95 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=2 ttl=128 time=6.41 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=3 ttl=128 time=5.51 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=4 ttl=128 time=5.73 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=5 ttl=128 time=6.78 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=6 ttl=128 time=5.42 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=7 ttl=128 time=7.07 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=8 ttl=128 time=6.39 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=9 ttl=128 time=5.20 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=10 ttl=128 time=6.35 ms
 
 --- google.com ping statistics ---
-1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 5.328/5.328/5.328/0.000 ms
+10 packets transmitted, 10 received, 0% packet loss, time 9018ms
+rtt min/avg/max/mdev = 4.946/5.979/7.067/0.677 ms
  
+***
 PING facebook.com (157.240.196.35) 56(84) bytes of data.
-64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=1 ttl=128 time=43.5 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=1 ttl=128 time=49.8 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=2 ttl=128 time=50.2 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=3 ttl=128 time=50.3 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=4 ttl=128 time=49.9 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=5 ttl=128 time=50.6 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=6 ttl=128 time=49.7 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=7 ttl=128 time=52.4 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=8 ttl=128 time=50.4 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=9 ttl=128 time=49.9 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=10 ttl=128 time=52.3 ms
 
 --- facebook.com ping statistics ---
-1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 43.534/43.534/43.534/0.000 ms
+10 packets transmitted, 10 received, 0% packet loss, time 9018ms
+rtt min/avg/max/mdev = 49.734/50.551/52.360/0.938 ms
  
+***
+PING tiktok.com (104.77.202.80) 56(84) bytes of data.
+64 bytes from a104-77-202-80.deploy.static.akamaitechnologies.com (104.77.202.80): icmp_seq=1 ttl=128 time=5.51 ms
+64 bytes from a104-77-202-80.deploy.static.akamaitechnologies.com (104.77.202.80): icmp_seq=2 ttl=128 time=6.75 ms
+64 bytes from a104-77-202-80.deploy.static.akamaitechnologies.com (104.77.202.80): icmp_seq=3 ttl=128 time=6.08 ms
+64 bytes from a104-77-202-80.deploy.static.akamaitechnologies.com (104.77.202.80): icmp_seq=4 ttl=128 time=6.06 ms
+64 bytes from a104-77-202-80.deploy.static.akamaitechnologies.com (104.77.202.80): icmp_seq=5 ttl=128 time=4.69 ms
+64 bytes from a104-77-202-80.deploy.static.akamaitechnologies.com (104.77.202.80): icmp_seq=6 ttl=128 time=5.24 ms
+64 bytes from a104-77-202-80.deploy.static.akamaitechnologies.com (104.77.202.80): icmp_seq=7 ttl=128 time=4.14 ms
+64 bytes from a104-77-202-80.deploy.static.akamaitechnologies.com (104.77.202.80): icmp_seq=8 ttl=128 time=5.64 ms
+64 bytes from a104-77-202-80.deploy.static.akamaitechnologies.com (104.77.202.80): icmp_seq=9 ttl=128 time=4.20 ms
+64 bytes from a104-77-202-80.deploy.static.akamaitechnologies.com (104.77.202.80): icmp_seq=10 ttl=128 time=6.05 ms
+
+--- tiktok.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9017ms
+rtt min/avg/max/mdev = 4.137/5.436/6.751/0.822 ms
+ 
+***
+PING youtube.com (142.250.75.46) 56(84) bytes of data.
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=1 ttl=128 time=8.04 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=2 ttl=128 time=5.73 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=3 ttl=128 time=6.46 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=4 ttl=128 time=5.43 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=5 ttl=128 time=7.48 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=6 ttl=128 time=5.72 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=7 ttl=128 time=6.59 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=8 ttl=128 time=7.58 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=9 ttl=128 time=7.54 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=10 ttl=128 time=5.52 ms
+
+--- youtube.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9019ms
+rtt min/avg/max/mdev = 5.434/6.608/8.036/0.936 ms
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 17:38:38 ~~~~~~~~~~~~~~
+----------------------------------------------
+google.com    7.153    7.153   
+facebook.com  50.990   50.990  
+tiktok.com    5.573    5.573   
+youtube.com   5.058    5.058   
+google.com    5.833    5.833   
+facebook.com  50.174   50.174  
+tiktok.com    7.089    7.089   
+youtube.com   7.096    7.096   
+google.com    6.053    6.053   
+facebook.com  51.043   51.043  
+tiktok.com    7.304    7.304   
+youtube.com   5.207    5.207   
+google.com    5.914    5.914   
+facebook.com  45.237   45.237  
+tiktok.com    5.506    5.506   
+youtube.com   7.861    7.861   
+google.com    5.948    5.948   
+facebook.com  51.634   51.634  
+tiktok.com    4.542    4.542   
+youtube.com   6.674    6.674   
+google.com    7.293    7.293   
+facebook.com  44.897   44.897  
+tiktok.com    6.409    6.409   
+youtube.com   7.663    7.663   
+google.com    4.946    7.067   
+facebook.com  49.734   52.360  
+tiktok.com    4.137    6.751   
+youtube.com   5.434    8.036   
+google.com    7.153    7.153   
+facebook.com  50.990   50.990  
+tiktok.com    5.573    5.573   
+youtube.com   5.058    5.058   
+google.com    5.833    5.833   
+facebook.com  50.174   50.174  
+tiktok.com    7.089    7.089   
+youtube.com   7.096    7.096   
+google.com    6.053    6.053   
+facebook.com  51.043   51.043  
+tiktok.com    7.304    7.304   
+youtube.com   5.207    5.207   
+google.com    5.914    5.914   
+facebook.com  45.237   45.237  
+tiktok.com    5.506    5.506   
+youtube.com   7.861    7.861   
+google.com    5.948    5.948   
+facebook.com  51.634   51.634  
+tiktok.com    4.542    4.542   
+youtube.com   6.674    6.674   
+google.com    7.293    7.293   
+facebook.com  44.897   44.897  
+tiktok.com    6.409    6.409   
+youtube.com   7.663    7.663   
+google.com    4.946    7.067   
+facebook.com  49.734   52.360  
+tiktok.com    4.137    6.751   
+youtube.com   5.434    8.036   
+google.com    7.153    7.153   
+facebook.com  50.990   50.990  
+tiktok.com    5.573    5.573   
+youtube.com   5.058    5.058   
+google.com    5.833    5.833   
+facebook.com  50.174   50.174  
+tiktok.com    7.089    7.089   
+youtube.com   7.096    7.096   
+google.com    6.053    6.053   
+facebook.com  51.043   51.043  
+tiktok.com    7.304    7.304   
+youtube.com   5.207    5.207   
+google.com    5.914    5.914   
+facebook.com  45.237   45.237  
+tiktok.com    5.506    5.506   
+youtube.com   7.861    7.861   
+google.com    5.948    5.948   
+facebook.com  51.634   51.634  
+tiktok.com    4.542    4.542   
+youtube.com   6.674    6.674   
+google.com    7.293    7.293   
+facebook.com  44.897   44.897  
+tiktok.com    6.409    6.409   
+youtube.com   7.663    7.663   
+google.com    4.946    7.067   
+facebook.com  49.734   52.360  
+tiktok.com    4.137    6.751   
+youtube.com   5.434    8.036   
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 17:39:55 ~~~~~~~~~~~~~~
+----------------------------------------------
+google.com    7.153    7.153   
+facebook.com  50.990   50.990  
+tiktok.com    5.573    5.573   
+youtube.com   5.058    5.058   
+google.com    5.833    5.833   
+facebook.com  50.174   50.174  
+tiktok.com    7.089    7.089   
+youtube.com   7.096    7.096   
+google.com    6.053    6.053   
+facebook.com  51.043   51.043  
+tiktok.com    7.304    7.304   
+youtube.com   5.207    5.207   
+google.com    5.914    5.914   
+facebook.com  45.237   45.237  
+tiktok.com    5.506    5.506   
+youtube.com   7.861    7.861   
+google.com    5.948    5.948   
+facebook.com  51.634   51.634  
+tiktok.com    4.542    4.542   
+youtube.com   6.674    6.674   
+google.com    7.293    7.293   
+facebook.com  44.897   44.897  
+tiktok.com    6.409    6.409   
+youtube.com   7.663    7.663   
+google.com    4.946    7.067   
+facebook.com  49.734   52.360  
+tiktok.com    4.137    6.751   
+youtube.com   5.434    8.036   
+google.com    7.153    7.153   
+facebook.com  50.990   50.990  
+tiktok.com    5.573    5.573   
+youtube.com   5.058    5.058   
+google.com    5.833    5.833   
+facebook.com  50.174   50.174  
+tiktok.com    7.089    7.089   
+youtube.com   7.096    7.096   
+google.com    6.053    6.053   
+facebook.com  51.043   51.043  
+tiktok.com    7.304    7.304   
+youtube.com   5.207    5.207   
+google.com    5.914    5.914   
+facebook.com  45.237   45.237  
+tiktok.com    5.506    5.506   
+youtube.com   7.861    7.861   
+google.com    5.948    5.948   
+facebook.com  51.634   51.634  
+tiktok.com    4.542    4.542   
+youtube.com   6.674    6.674   
+google.com    7.293    7.293   
+facebook.com  44.897   44.897  
+tiktok.com    6.409    6.409   
+youtube.com   7.663    7.663   
+google.com    4.946    7.067   
+facebook.com  49.734   52.360  
+tiktok.com    4.137    6.751   
+youtube.com   5.434    8.036   
+tiktok.com 4.137
+facebook.com 51.634
+google.com    7.153    7.153   
+facebook.com  50.990   50.990  
+tiktok.com    5.573    5.573   
+youtube.com   5.058    5.058   
+google.com    5.833    5.833   
+facebook.com  50.174   50.174  
+tiktok.com    7.089    7.089   
+youtube.com   7.096    7.096   
+google.com    6.053    6.053   
+facebook.com  51.043   51.043  
+tiktok.com    7.304    7.304   
+youtube.com   5.207    5.207   
+google.com    5.914    5.914   
+facebook.com  45.237   45.237  
+tiktok.com    5.506    5.506   
+youtube.com   7.861    7.861   
+google.com    5.948    5.948   
+facebook.com  51.634   51.634  
+tiktok.com    4.542    4.542   
+youtube.com   6.674    6.674   
+google.com    7.293    7.293   
+facebook.com  44.897   44.897  
+tiktok.com    6.409    6.409   
+youtube.com   7.663    7.663   
+google.com    4.946    7.067   
+facebook.com  49.734   52.360  
+tiktok.com    4.137    6.751   
+youtube.com   5.434    8.036   
+[1;33mAverage: 17.227[0m
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 17:40:18 ~~~~~~~~~~~~~~
+----------------------------------------------
+google.com    7.153    7.153   
+facebook.com  50.990   50.990  
+tiktok.com    5.573    5.573   
+youtube.com   5.058    5.058   
+google.com    5.833    5.833   
+facebook.com  50.174   50.174  
+tiktok.com    7.089    7.089   
+youtube.com   7.096    7.096   
+google.com    6.053    6.053   
+facebook.com  51.043   51.043  
+tiktok.com    7.304    7.304   
+youtube.com   5.207    5.207   
+google.com    5.914    5.914   
+facebook.com  45.237   45.237  
+tiktok.com    5.506    5.506   
+youtube.com   7.861    7.861   
+google.com    5.948    5.948   
+facebook.com  51.634   51.634  
+tiktok.com    4.542    4.542   
+youtube.com   6.674    6.674   
+google.com    7.293    7.293   
+facebook.com  44.897   44.897  
+tiktok.com    6.409    6.409   
+youtube.com   7.663    7.663   
+google.com    4.946    7.067   
+facebook.com  49.734   52.360  
+tiktok.com    4.137    6.751   
+youtube.com   5.434    8.036   
+google.com    7.153    7.153   
+facebook.com  50.990   50.990  
+tiktok.com    5.573    5.573   
+youtube.com   5.058    5.058   
+google.com    5.833    5.833   
+facebook.com  50.174   50.174  
+tiktok.com    7.089    7.089   
+youtube.com   7.096    7.096   
+google.com    6.053    6.053   
+facebook.com  51.043   51.043  
+tiktok.com    7.304    7.304   
+youtube.com   5.207    5.207   
+google.com    5.914    5.914   
+facebook.com  45.237   45.237  
+tiktok.com    5.506    5.506   
+youtube.com   7.861    7.861   
+google.com    5.948    5.948   
+facebook.com  51.634   51.634  
+tiktok.com    4.542    4.542   
+youtube.com   6.674    6.674   
+google.com    7.293    7.293   
+facebook.com  44.897   44.897  
+tiktok.com    6.409    6.409   
+youtube.com   7.663    7.663   
+google.com    4.946    7.067   
+facebook.com  49.734   52.360  
+tiktok.com    4.137    6.751   
+youtube.com   5.434    8.036   
+google.com    7.153    7.153   
+facebook.com  50.990   50.990  
+tiktok.com    5.573    5.573   
+youtube.com   5.058    5.058   
+google.com    5.833    5.833   
+facebook.com  50.174   50.174  
+tiktok.com    7.089    7.089   
+youtube.com   7.096    7.096   
+google.com    6.053    6.053   
+facebook.com  51.043   51.043  
+tiktok.com    7.304    7.304   
+youtube.com   5.207    5.207   
+google.com    5.914    5.914   
+facebook.com  45.237   45.237  
+tiktok.com    5.506    5.506   
+youtube.com   7.861    7.861   
+google.com    5.948    5.948   
+facebook.com  51.634   51.634  
+tiktok.com    4.542    4.542   
+youtube.com   6.674    6.674   
+google.com    7.293    7.293   
+facebook.com  44.897   44.897  
+tiktok.com    6.409    6.409   
+youtube.com   7.663    7.663   
+google.com    4.946    7.067   
+facebook.com  49.734   52.360  
+tiktok.com    4.137    6.751   
+youtube.com   5.434    8.036   
+ 
+----------------------------------------------
+~~~~~~~~~~ Ping Test with 3 ping(s) ~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 17:40:29 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+***
+PING google.com (142.250.75.78) 56(84) bytes of data.
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=1 ttl=128 time=8.61 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=2 ttl=128 time=7.36 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=3 ttl=128 time=8.64 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 7.357/8.201/8.635/0.597 ms
+ 
+***
+PING facebook.com (157.240.196.35) 56(84) bytes of data.
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=1 ttl=128 time=50.8 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=2 ttl=128 time=50.6 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=3 ttl=128 time=51.6 ms
+
+--- facebook.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 50.628/51.019/51.607/0.423 ms
+ 
+***
 PING tiktok.com (212.25.69.136) 56(84) bytes of data.
-64 bytes from bzq-25-69-136.cust.bezeqint.net (212.25.69.136): icmp_seq=1 ttl=128 time=5.87 ms
+64 bytes from bzq-25-69-136.cust.bezeqint.net (212.25.69.136): icmp_seq=1 ttl=128 time=6.86 ms
+64 bytes from bzq-25-69-136.cust.bezeqint.net (212.25.69.136): icmp_seq=2 ttl=128 time=5.62 ms
+64 bytes from bzq-25-69-136.cust.bezeqint.net (212.25.69.136): icmp_seq=3 ttl=128 time=4.73 ms
 
 --- tiktok.com ping statistics ---
-1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 5.873/5.873/5.873/0.000 ms
- 
-PING youtube.com (142.250.75.78) 56(84) bytes of data.
-64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=1 ttl=128 time=6.42 ms
-
---- youtube.com ping statistics ---
-1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 6.423/6.423/6.423/0.000 ms
- 
-----------------------------------------------
-~~~~~~~~~~~ 2025 03 26 17:13:03 ~~~~~~~~~~~~~~
-----------------------------------------------
- 
- 
-PING google.com (142.250.75.46) 56(84) bytes of data.
-64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=1 ttl=128 time=7.42 ms
-
---- google.com ping statistics ---
-1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 7.424/7.424/7.424/0.000 ms
- 
-PING facebook.com (157.240.196.35) 56(84) bytes of data.
-64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=1 ttl=128 time=49.5 ms
-
---- facebook.com ping statistics ---
-1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 49.497/49.497/49.497/0.000 ms
- 
-PING tiktok.com (212.25.69.168) 56(84) bytes of data.
-64 bytes from bzq-25-69-168.cust.bezeqint.net (212.25.69.168): icmp_seq=1 ttl=128 time=6.70 ms
-
---- tiktok.com ping statistics ---
-1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 6.695/6.695/6.695/0.000 ms
- 
-PING youtube.com (142.250.75.78) 56(84) bytes of data.
-64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=1 ttl=128 time=5.69 ms
-
---- youtube.com ping statistics ---
-1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 5.685/5.685/5.685/0.000 ms
- 
-----------------------------------------------
-~~~~~~~~~~~ 2025 03 26 17:13:18 ~~~~~~~~~~~~~~
-----------------------------------------------
- 
-PING google.com (142.250.75.142) 56(84) bytes of data.
-64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=1 ttl=128 time=5.46 ms
-
---- google.com ping statistics ---
-1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 5.460/5.460/5.460/0.000 ms
- 
-PING facebook.com (157.240.196.35) 56(84) bytes of data.
-64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=1 ttl=128 time=51.3 ms
-
---- facebook.com ping statistics ---
-1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 51.286/51.286/51.286/0.000 ms
- 
-PING tiktok.com (104.77.202.89) 56(84) bytes of data.
-64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=1 ttl=128 time=6.01 ms
-
---- tiktok.com ping statistics ---
-1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 6.007/6.007/6.007/0.000 ms
- 
-PING youtube.com (142.250.75.46) 56(84) bytes of data.
-64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=1 ttl=128 time=6.75 ms
-
---- youtube.com ping statistics ---
-1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 6.748/6.748/6.748/0.000 ms
- 
-----------------------------------------------
-~~~~~~~~~~~ 2025 03 26 17:13:58 ~~~~~~~~~~~~~~
-----------------------------------------------
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 4.733/5.737/6.861/0.872 ms
  
 ***
-PING google.com (142.250.75.110) 56(84) bytes of data.
-64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=1 ttl=128 time=7.33 ms
-
---- google.com ping statistics ---
-1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 7.331/7.331/7.331/0.000 ms
- 
-***
-PING facebook.com (157.240.196.35) 56(84) bytes of data.
-64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=1 ttl=128 time=50.7 ms
-
---- facebook.com ping statistics ---
-1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 50.746/50.746/50.746/0.000 ms
- 
-***
-PING tiktok.com (104.77.202.81) 56(84) bytes of data.
-64 bytes from a104-77-202-81.deploy.static.akamaitechnologies.com (104.77.202.81): icmp_seq=1 ttl=128 time=5.00 ms
-
---- tiktok.com ping statistics ---
-1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 5.004/5.004/5.004/0.000 ms
- 
-***
-PING youtube.com (142.250.75.46) 56(84) bytes of data.
-64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=1 ttl=128 time=5.35 ms
+PING youtube.com (142.250.75.174) 56(84) bytes of data.
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=1 ttl=128 time=6.31 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=2 ttl=128 time=5.71 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=3 ttl=128 time=19.6 ms
 
 --- youtube.com ping statistics ---
-1 packets transmitted, 1 received, 0% packet loss, time 0ms
-rtt min/avg/max/mdev = 5.349/5.349/5.349/0.000 ms
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 5.712/10.526/19.561/6.393 ms
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 17:40:43 ~~~~~~~~~~~~~~
+----------------------------------------------
+google.com    7.357    8.635   
+facebook.com  50.628   51.607  
+tiktok.com    4.733    6.861   
+youtube.com   5.712    19.561  
+google.com    7.357    8.635   
+facebook.com  50.628   51.607  
+tiktok.com    4.733    6.861   
+youtube.com   5.712    19.561  
+google.com    7.357    8.635   
+facebook.com  50.628   51.607  
+tiktok.com    4.733    6.861   
+youtube.com   5.712    19.561  
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 17:41:57 ~~~~~~~~~~~~~~
+----------------------------------------------
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 17:42:48 ~~~~~~~~~~~~~~
+----------------------------------------------
+   Website     Min      Max  
+-----------------------------
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 17:43:04 ~~~~~~~~~~~~~~
+----------------------------------------------
+   Website     Min      Max  
+-----------------------------
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 17:43:45 ~~~~~~~~~~~~~~
+----------------------------------------------
+   Website     Min      Max  
+-----------------------------
+google.com    7.357    8.635   
+facebook.com  50.628   51.607  
+tiktok.com    4.733    6.861   
+youtube.com   5.712    19.561  
+google.com    7.357    8.635   
+facebook.com  50.628   51.607  
+tiktok.com    4.733    6.861   
+youtube.com   5.712    19.561  
+google.com    7.357    8.635   
+facebook.com  50.628   51.607  
+tiktok.com    4.733    6.861   
+youtube.com   5.712    19.561  
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 17:43:54 ~~~~~~~~~~~~~~
+----------------------------------------------
+   Website     Min      Max  
+-----------------------------
+google.com    7.357    8.635   
+facebook.com  50.628   51.607  
+tiktok.com    4.733    6.861   
+youtube.com   5.712    19.561  
+google.com    7.357    8.635   
+facebook.com  50.628   51.607  
+tiktok.com    4.733    6.861   
+youtube.com   5.712    19.561  
+google.com    7.357    8.635   
+facebook.com  50.628   51.607  
+tiktok.com    4.733    6.861   
+youtube.com   5.712    19.561  
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 17:47:40 ~~~~~~~~~~~~~~
+----------------------------------------------
+   Website     Min      Max  
+-----------------------------
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 17:48:24 ~~~~~~~~~~~~~~
+----------------------------------------------
+   Website     Min      Max  
+-----------------------------
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 17:48:46 ~~~~~~~~~~~~~~
+----------------------------------------------
+   Website     Min      Max  
+-----------------------------
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 17:49:34 ~~~~~~~~~~~~~~
+----------------------------------------------
+   Website     Min      Max  
+-----------------------------
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 17:49:42 ~~~~~~~~~~~~~~
+----------------------------------------------
+   Website     Min      Max  
+-----------------------------
+google.com    7.357    8.635   
+facebook.com  50.628   51.607  
+tiktok.com    4.733    6.861   
+youtube.com   5.712    19.561  
+google.com    7.357    8.635   
+facebook.com  50.628   51.607  
+tiktok.com    4.733    6.861   
+youtube.com   5.712    19.561  
+google.com    7.357    8.635   
+facebook.com  50.628   51.607  
+tiktok.com    4.733    6.861   
+youtube.com   5.712    19.561  
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 17:50:24 ~~~~~~~~~~~~~~
+----------------------------------------------
+   Website     Min      Max  
+-----------------------------
+google.com    7.357    8.635   
+facebook.com  50.628   51.607  
+tiktok.com    4.733    6.861   
+youtube.com   5.712    19.561  
+google.com    7.357    8.635   
+facebook.com  50.628   51.607  
+tiktok.com    4.733    6.861   
+youtube.com   5.712    19.561  
+google.com    7.357    8.635   
+facebook.com  50.628   51.607  
+tiktok.com    4.733    6.861   
+youtube.com   5.712    19.561  
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 17:50:41 ~~~~~~~~~~~~~~
+----------------------------------------------
+   Website     Min      Max  
+-----------------------------
+google.com    7.357    8.635   
+facebook.com  50.628   51.607  
+tiktok.com    4.733    6.861   
+youtube.com   5.712    19.561  
+google.com    7.357    8.635   
+facebook.com  50.628   51.607  
+tiktok.com    4.733    6.861   
+youtube.com   5.712    19.561  
+google.com    7.357    8.635   
+facebook.com  50.628   51.607  
+tiktok.com    4.733    6.861   
+youtube.com   5.712    19.561  
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 17:51:19 ~~~~~~~~~~~~~~
+----------------------------------------------
+   Website     Min      Max  
+-----------------------------
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 17:53:33 ~~~~~~~~~~~~~~
+----------------------------------------------
+   Website     Min      Max  
+-----------------------------
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 17:54:02 ~~~~~~~~~~~~~~
+----------------------------------------------
+   Website     Min      Max  
+-----------------------------
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 18:01:10 ~~~~~~~~~~~~~~
+----------------------------------------------
+   Website     Min      Max  
+-----------------------------
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 18:01:46 ~~~~~~~~~~~~~~
+----------------------------------------------
+   Website     Min      Max  
+-----------------------------
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 18:02:24 ~~~~~~~~~~~~~~
+----------------------------------------------
+   Website     Min      Max  
+-----------------------------
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 18:02:48 ~~~~~~~~~~~~~~
+----------------------------------------------
+   Website     Min      Max  
+-----------------------------
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 18:03:04 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 18:03:31 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 18:04:06 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 18:05:02 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+tiktok.com 4.733
+facebook.com 50.628
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 18:05:30 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+tiktok.com 4.733
+facebook.com 50.628
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 18:06:26 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+     Summary of the results     
+--------------------------------
+Fastest: 
+tiktok.com 4.733
+Slowest: 
+facebook.com 50.628
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 18:06:39 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+     Summary of the results     
+--------------------------------
+Fastest: 
+tiktok.com 4.733
+Slowest: 
+facebook.com 50.628
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 18:06:46 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+ 
+     Summary of the results     
+--------------------------------
+Fastest: 
+tiktok.com 4.733
+Slowest: 
+facebook.com 50.628
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 18:07:47 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+ 
+     Summary of the results     
+--------------------------------
+Fastest: 
+tiktok.com 4.733
+Slowest: 
+facebook.com 50.628
+Average: 21.666
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 18:08:35 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+ 
+     Summary of the results     
+--------------------------------
+-c Fastest: \n
+tiktok.com 4.733
+Slowest: 
+facebook.com 50.628
+Average: 21.666
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 26 18:08:55 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  50.628   51.607  
+google.com    7.357    8.635   
+youtube.com   5.712    19.561  
+tiktok.com    4.733    6.861   
+ 
+     Summary of the results     
+--------------------------------
+Fastest: 
+tiktok.com 4.733
+Slowest: 
+facebook.com 50.628
+Average: 21.666

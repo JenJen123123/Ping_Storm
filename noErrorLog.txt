@@ -1,8 +1,4 @@
-facebook.com 47.264
-facebook.com 46.459
-google.com 7.142
-google.com 6.890
-youtube.com 6.454
-youtube.com 5.250
-tiktok.com 4.994
-tiktok.com 4.418
+facebook.com 50.628
+google.com 7.357
+youtube.com 5.712
+tiktok.com 4.733
