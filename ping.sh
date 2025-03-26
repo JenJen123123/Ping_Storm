@@ -1,4 +1,15 @@
 #!/bin/bash
+
+# Script to ping a list of websites and display the results in a formatted table
+
+# Function to handle errors
+error() {
+    echo "$(date '+%Y %m %d %H:%M:%S')" "$site" "Didn't send any answer" >>Error.log
+}
+
+# List of services to ping
+# You can add or remove services from this list
+# The script will ping each service and display the results
 services=(
     "google.com"
     "facebook.com"
@@ -7,12 +18,13 @@ services=(
     #"netflix.com"
 )
 
-num_pings=1
+# Number of pings to send
+num_pings=1 # Change this to the number of pings you want to send
 
 # Print header
 echo " "
 echo -e "\e[1;31;41mWebsite       Min      Avg      Max      Mdev\e[0m"
-#echo "Website       Min      Avg      Max      Mdev"
+echo "Website       Min      Avg      Max      Mdev" >>DataLog.txt
 echo "----------------------------------------------"
 
 # Loop services
@@ -33,9 +45,10 @@ for site in "${services[@]}"; do
         }')
 
         echo "$good_result"
+        echo "$good_result" >>DataLog.txt
     else
         # If error, print error message with date and site name to Error.log
-        echo "$(date '+%Y %m %d %H:%M:%S')" "$site" "Didn't send any answer" >>Error.log
+        error
     fi
 
 done
@@ -44,4 +57,4 @@ echo "----------------------------------------------"
 echo -e "\e[1;31;44m~~~~~~~~~~~~~ End Of Ping Script ~~~~~~~~~~~~~\e[0m"
 echo " "
 
-exit 0
+#exit 0
