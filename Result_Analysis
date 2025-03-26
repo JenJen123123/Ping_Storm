@@ -1,0 +1,49 @@
+#! /bin/bash
+
+#LOGS_FILE="Results_analysis.log"
+#echo "--------------------------" && tee -A '{
+
+#source ./pings.sh
+#speed_test
+echo "Tested 5 services"
+echo "ON DATE: $(date)"
+echo 'Web Site     --     Avg speed'
+echo '-----------------------------'
+while read -r line;do
+function sorting {
+#echo 'Web Site     --     Avg speed'
+#echo '-----------------------------'
+source ./pings.sh
+speed_test
+awk 'NR>0{print $1, $3}' ping_results.csv | sort -k2 -nr
+#echo "---------------------------" 
+}
+done <ping_results.csv
+sorting 
+
+#Extracting fstest and slowest responding services
+fastest=$(sorting | tail -n 1)
+echo "Fastest: $fastest ms"
+slowest=$(sorting | head -n 1)
+echo "Slowest: $slowest ms"
+
+
+#Calulating average latency
+mapfile -t numbers < <(sorting | awk '{print $2}')
+sum=0
+count=0
+
+for num in "${numbers[@]}"; do
+    sum=$(echo "$sum + $num" | bc)  
+    ((count++))
+done
+
+average=$(echo "scale=3; $sum / $count" | bc)  
+#echo "Average: $average ms"
+echo -e "\033[33m Average Latency: $average ms\033[0m"
+echo "---------------------------" 
+#>>>>>>> 2daa3be (Added speed test function)
+
+
+#}' >> "$LOG_FILE"
+

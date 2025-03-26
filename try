@@ -1,0 +1,33 @@
+#!/bin/bash
+
+# Ping script to check the availability of target services
+
+# List of target services
+services=(
+    "google.com"
+    #"facebook.com"
+    #"tiktok.com"
+    #"youtube.com"
+    "netflix.com"
+)
+
+# Loop through each service and ping
+for service in "${services[@]}"; do
+    echo "Pinging ${service}..."
+    #echo -e "\e[1;31m ~~~ Pinging \e[36m${service}\e[0m ~~~ \e[0m"
+reply=$(ping -c 3 "$service" | grep -A 2 statistics) 
+ping -c 4 8.8.8.8 > /dev/null 2>&1
+echo $reply   
+#echo "-----------------------------------"
+done
+# End of script
+
+echo " "
+#echo -e "\e[1;31m ~~~ End of script ~~~ \e[0m"
+echo -e "\e[1;33;40m ~~~ End of script ~~~ \e[0m"
+echo " "  && exit 1
+
+#grep rtt | awk '{print $7}'
+
+#if [[ $reply="0% packet loss" ]];then
+#echo  
