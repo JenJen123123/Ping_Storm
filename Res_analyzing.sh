@@ -1,16 +1,18 @@
 #! /bin/bash
-#! /bin/bash
 
+echo " "
 
 while read -r line;do
 function sorting  {
 #echo 'Web Site -- Avg speed'
 #echo '---------------------------'
-awk 'NR>0{print $1, $2, $3}' ping_results.csv | sort -k2 -nr
+awk 'NR>0{print $1, $2, $3}' DataLogCopy.txt | sort -k2 -nr
 }
 #echo "---------------------------" 
-done <ping_results.csv
+done <DataLogCopy.txt
+
 sorting
+
 fastest=$(sorting | tail -n 1)
 echo "Fastest: $fastest ms"
 slowest=$(sorting | head -n 1)
