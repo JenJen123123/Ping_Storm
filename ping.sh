@@ -15,7 +15,7 @@ services=(
     "facebook.com"
     "tiktok.com"
     "youtube.com"
-    #"netflix.com"
+    "netflix.com"
 )
 
 # Number of pings to send
