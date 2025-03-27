@@ -36,7 +36,7 @@ select comd in "${options[@]}"; do
 			##continue stop option##
 			echo "    "
 			if [[ $PING_PID -ne "0" ]]; then
-				echo -e "\e[1;33;40m ~~~ Stoping Ping Storm ~~~ \e[0m"
+				echo -e "\e[1;31;40m ~~~ Stoping Ping Storm ~~~ \e[0m"
 				echo "    "
 				kill $PING_PID
 				echo "Ping Storm successfully stopped!"
@@ -56,8 +56,7 @@ select comd in "${options[@]}"; do
 			menu
 			;;
 		"Show")
-			echo "    "
-			echo "show..."
+			./show.sh
 			;;
 		"Quit")
 			echo "    "
