@@ -22,4 +22,10 @@ echo -e "\e[1;31m🐢 $slowest\e[0m\n"
 average=$(grep 'Average' ./pingstorm.log | tail -n 1 | sed 's/[~\-]//g')
 echo -e "\e[1;33m📊 $average\e[0m\n"
 
-echo "Press 5 to quit"
+# Display menu options
+echo -e "\e[1;44;37m📋 Menu Options:\e[0m"
+echo -e "\n1) Start"
+echo "2) Stop"
+echo "3) Status"
+echo "4) Show"
+echo "5) Quit"
