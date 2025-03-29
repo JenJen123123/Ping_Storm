@@ -185,3 +185,4 @@ netflix.com   N/A      N/A      N/A      N/A
 google.com    5.501    6.496    7.491    0.995   
 facebook.com  44.615   44.635   44.656   0.020   
 tiktok.com    4.944    6.241    7.538    1.297   
+google.com    6.326    7.296    8.266    0.970   
