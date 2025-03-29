@@ -15,7 +15,7 @@ services=(
     "facebook.com"
     "tiktok.com"
     "youtube.com"
-    #"netflix.com"
+    "netflix.com"
 )
 
 #Addin the number of services to the log
@@ -26,7 +26,7 @@ num_services=${#services[@]}
 
 
 # Number of pings to send
-num_pings=20 # Change this to the number of pings you want to send
+num_pings=2 # Change this to the number of pings you want to send
 
 # Print header
 echo " "

@@ -74,7 +74,7 @@ select comd in "${options[@]}"; do
 
 			echo -e "\e[1;34;40m🛑 ping command stopped \e[0m"
 			echo "    "
-			kill $(pgrep -f "ping.sh")
+			kill $(pgrep -f "ping -c")
 			# Clear the PID variable
 			PING_PID=""
 		else

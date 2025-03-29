@@ -22,6 +22,20 @@ echo -e "\e[1;31m🐢 $slowest\e[0m\n"
 average=$(grep 'Average' ./pingstorm.log | tail -n 1 | sed 's/[~\-]//g')
 echo -e "\e[1;33m📊 $average\e[0m\n"
 
+echo " "
+# Function to export the report to a CSV file
+export_to_csv() {
+    output_file="pingstorm_report.csv"
+    echo "Header,Summary,Slowest,Average" >"$output_file"
+    echo "\"$header\",\"$summary\",\"$slowest\",\"$average\"" >>"$output_file"
+    echo -e "\e[1;32m✅ Report exported to $output_file\e[0m"
+}
+
+# Call the export_to_csv function
+export_to_csv
+
+echo " "
+
 # Display menu options
 echo -e "\e[1;44;37m📋 Menu Options:\e[0m"
 echo -e "\n1) Start"
@@ -29,3 +43,5 @@ echo "2) Stop"
 echo "3) Status"
 echo "4) Show"
 echo "5) Quit"
+
+echo " "

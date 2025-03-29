@@ -172,3 +172,16 @@ google.com    5.603    6.699    8.177    0.711
 facebook.com  44.057   45.841   47.524   0.763   
 tiktok.com    4.747    5.998    6.895    0.722   
 youtube.com   5.612    7.144    13.037   1.477   
+google.com    7.182    7.551    7.921    0.369   
+facebook.com  44.254   44.934   45.615   0.680   
+tiktok.com    5.970    6.739    7.508    0.769   
+youtube.com   7.052    8.806    10.561   1.754   
+netflix.com   N/A      N/A      N/A      N/A     
+google.com    5.217    6.482    7.747    1.265   
+facebook.com  45.233   45.607   45.982   0.374   
+tiktok.com    4.768    5.111    5.454    0.343   
+youtube.com   5.429    5.614    5.800    0.185   
+netflix.com   N/A      N/A      N/A      N/A     
+google.com    5.501    6.496    7.491    0.995   
+facebook.com  44.615   44.635   44.656   0.020   
+tiktok.com    4.944    6.241    7.538    1.297   
