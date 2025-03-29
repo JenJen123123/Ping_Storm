@@ -1,0 +1,279 @@
+ 
+----------------------------------------------
+~~~~~~~~~~ Ping Test with 3 ping(s) ~~~~~~~~~~
+~~~~~~~~~~~~~ Pinging 5 services ~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 29 20:41:23 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+***
+PING google.com (142.250.75.142) 56(84) bytes of data.
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=1 ttl=128 time=4.83 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=2 ttl=128 time=7.16 ms
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 29 20:41:27 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  49.700   49.700  
+facebook.com  49.527   49.527  
+facebook.com  46.908   46.908  
+facebook.com  46.628   46.628  
+facebook.com  46.565   46.565  
+facebook.com  46.304   46.866  
+facebook.com  45.823   46.041  
+facebook.com  45.751   45.751  
+facebook.com  45.708   45.708  
+facebook.com  45.689   45.689  
+facebook.com  45.651   45.651  
+facebook.com  45.508   49.857  
+facebook.com  45.485   45.485  
+facebook.com  45.427   47.358  
+facebook.com  45.415   45.415  
+facebook.com  45.361   47.830  
+facebook.com  45.321   45.321  
+facebook.com  45.286   45.286  
+facebook.com  45.286   45.286  
+facebook.com  45.233   45.982  
+facebook.com  45.179   46.383  
+facebook.com  44.952   47.749  
+facebook.com  44.952   44.952  
+facebook.com  44.893   70.626  
+facebook.com  44.764   44.764  
+facebook.com  44.719   47.333  
+facebook.com  44.712   46.548  
+facebook.com  44.688   44.688  
+facebook.com  44.615   44.656  
+facebook.com  44.550   46.791  
+facebook.com  44.392   48.092  
+facebook.com  44.371   47.039  
+facebook.com  44.275   48.026  
+facebook.com  44.254   45.615  
+facebook.com  44.207   46.565  
+facebook.com  44.126   44.126  
+facebook.com  44.113   46.531  
+facebook.com  44.096   84.061  
+facebook.com  44.057   47.524  
+facebook.com  43.967   53.684  
+facebook.com  43.892   46.853  
+facebook.com  43.834   43.834  
+facebook.com  43.631   51.368  
+facebook.com  43.542   254.471 
+facebook.com  43.448   56.640  
+facebook.com  43.126   46.805  
+youtube.com   9.551    9.551   
+google.com    8.636    8.636   
+google.com    8.427    8.427   
+google.com    8.289    8.289   
+youtube.com   8.125    8.125   
+google.com    8.018    10.134  
+google.com    7.875    7.875   
+youtube.com   7.773    7.773   
+tiktok.com    7.733    7.733   
+google.com    7.640    7.640   
+google.com    7.595    7.595   
+google.com    7.587    10.208  
+google.com    7.562    7.562   
+youtube.com   7.547    9.577   
+youtube.com   7.457    7.457   
+youtube.com   7.421    9.299   
+youtube.com   7.368    10.533  
+tiktok.com    7.361    7.361   
+google.com    7.357    7.357   
+youtube.com   7.238    9.083   
+youtube.com   7.208    7.208   
+google.com    7.182    7.921   
+youtube.com   7.162    7.162   
+google.com    7.145    8.473   
+youtube.com   7.144    9.323   
+google.com    7.092    7.092   
+google.com    7.073    10.412  
+tiktok.com    7.056    7.056   
+youtube.com   7.052    10.561  
+youtube.com   7.001    10.058  
+youtube.com   6.931    10.266  
+youtube.com   6.885    6.885   
+google.com    6.871    8.776   
+google.com    6.801    6.801   
+youtube.com   6.765    12.826  
+youtube.com   6.694    6.694   
+google.com    6.643    6.697   
+google.com    6.626    6.626   
+youtube.com   6.535    9.856   
+google.com    6.492    9.229   
+youtube.com   6.472    8.846   
+google.com    6.459    7.496   
+google.com    6.386    8.118   
+google.com    6.335    6.335   
+google.com    6.326    8.266   
+youtube.com   6.291    6.291   
+tiktok.com    6.268    8.261   
+youtube.com   6.251    8.855   
+tiktok.com    6.170    8.187   
+youtube.com   6.164    312.812 
+youtube.com   6.156    10.822  
+youtube.com   6.147    8.782   
+tiktok.com    6.104    6.881   
+google.com    6.064    8.911   
+google.com    6.061    8.705   
+google.com    6.061    6.061   
+youtube.com   6.059    7.519   
+google.com    6.021    351.540 
+youtube.com   5.999    8.174   
+tiktok.com    5.970    7.508   
+youtube.com   5.951    5.951   
+google.com    5.927    9.793   
+youtube.com   5.924    7.513   
+google.com    5.923    8.671   
+youtube.com   5.809    8.491   
+youtube.com   5.804    5.804   
+tiktok.com    5.773    5.773   
+google.com    5.752    5.752   
+youtube.com   5.740    5.740   
+google.com    5.703    8.346   
+google.com    5.702    5.702   
+youtube.com   5.682    5.682   
+youtube.com   5.654    5.654   
+tiktok.com    5.648    10.527  
+google.com    5.628    386.111 
+youtube.com   5.619    5.619   
+youtube.com   5.612    13.037  
+google.com    5.603    8.177   
+google.com    5.600    7.168   
+tiktok.com    5.594    7.603   
+google.com    5.589    5.589   
+tiktok.com    5.558    5.558   
+google.com    5.557    9.015   
+google.com    5.550    5.550   
+tiktok.com    5.545    7.449   
+google.com    5.535    8.787   
+google.com    5.501    7.491   
+tiktok.com    5.495    5.495   
+tiktok.com    5.476    5.476   
+youtube.com   5.446    7.566   
+youtube.com   5.429    5.800   
+tiktok.com    5.427    6.856   
+tiktok.com    5.399    5.399   
+youtube.com   5.379    5.379   
+google.com    5.355    15.213  
+tiktok.com    5.338    10.009  
+tiktok.com    5.329    6.307   
+tiktok.com    5.315    5.315   
+tiktok.com    5.294    5.294   
+youtube.com   5.288    8.179   
+tiktok.com    5.254    5.254   
+google.com    5.239    7.519   
+tiktok.com    5.222    7.063   
+google.com    5.217    7.747   
+tiktok.com    5.178    5.178   
+tiktok.com    5.157    7.896   
+tiktok.com    5.137    5.137   
+tiktok.com    5.135    8.353   
+youtube.com   5.046    5.046   
+google.com    4.956    4.956   
+tiktok.com    4.944    7.538   
+google.com    4.938    4.938   
+tiktok.com    4.926    18.043  
+tiktok.com    4.904    10.034  
+tiktok.com    4.880    9.193   
+tiktok.com    4.872    4.872   
+tiktok.com    4.816    4.816   
+tiktok.com    4.772    4.772   
+tiktok.com    4.769    4.769   
+tiktok.com    4.768    5.454   
+tiktok.com    4.760    4.760   
+tiktok.com    4.747    6.895   
+google.com    4.746    8.123   
+tiktok.com    4.706    7.245   
+youtube.com   4.691    4.691   
+tiktok.com    4.537    4.537   
+youtube.com   4.462    4.462   
+google.com    4.315    7.940   
+tiktok.com    4.298    6.075   
+tiktok.com    4.289    6.416   
+tiktok.com    4.217    7.882   
+tiktok.com    3.822    7.265   
+tiktok.com    3.690    11.661  
+tiktok.com    3.676    10.076  
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+ 
+     Summary of the results     
+--------------------------------
+Fastest: 
+tiktok.com 3.676
+Slowest: 
+facebook.com 49.700
+Average: 15.984
+ 
+----------------------------------------------
+~~~~~~~~~~ Ping Test with 1 ping(s) ~~~~~~~~~~
+~~~~~~~~~~~~~ Pinging 5 services ~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 29 20:42:15 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+***
+PING google.com (142.250.75.110) 56(84) bytes of data.
+64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=1 ttl=128 time=7.26 ms
+
+--- google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 7.257/7.257/7.257/0.000 ms
+ 
+***
+PING facebook.com (157.240.196.35) 56(84) bytes of data.
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=1 ttl=128 time=45.5 ms
+
+--- facebook.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 45.454/45.454/45.454/0.000 ms
+ 
+***
+PING tiktok.com (72.246.151.107) 56(84) bytes of data.
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=1 ttl=128 time=6.60 ms
+
+--- tiktok.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 6.595/6.595/6.595/0.000 ms
+ 
+***
+PING youtube.com (142.250.75.110) 56(84) bytes of data.
+64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=1 ttl=128 time=7.38 ms
+
+--- youtube.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 7.379/7.379/7.379/0.000 ms
+ 
+***
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 29 20:42:18 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  45.454   45.454  
+youtube.com   7.379    7.379   
+google.com    7.257    7.257   
+tiktok.com    6.595    6.595   
+ 
+     Summary of the results     
+--------------------------------
+Fastest: 
+tiktok.com 6.595
+Slowest: 
+facebook.com 45.454
+Average: 16.671
