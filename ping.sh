@@ -15,11 +15,11 @@ services=(
     "facebook.com"
     "tiktok.com"
     "youtube.com"
-    "netflix.com"
+    #"netflix.com"
 )
 
 # Number of pings to send
-num_pings=1 # Change this to the number of pings you want to send
+num_pings=10 # Change this to the number of pings you want to send
 
 # Print header
 echo " "
