@@ -32,6 +32,7 @@ facebook.com 44.207
 facebook.com 44.126
 facebook.com 44.113
 facebook.com 44.096
+facebook.com 44.057
 facebook.com 43.967
 facebook.com 43.892
 facebook.com 43.834
@@ -108,6 +109,8 @@ youtube.com 5.654
 tiktok.com 5.648
 google.com 5.628
 youtube.com 5.619
+youtube.com 5.612
+google.com 5.603
 google.com 5.600
 tiktok.com 5.594
 google.com 5.589
@@ -146,6 +149,7 @@ tiktok.com 4.816
 tiktok.com 4.772
 tiktok.com 4.769
 tiktok.com 4.760
+tiktok.com 4.747
 google.com 4.746
 tiktok.com 4.706
 youtube.com 4.691
