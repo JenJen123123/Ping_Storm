@@ -21,12 +21,8 @@ services=(
 #Addin the number of services to the log
 num_services=${#services[@]}
 
-
-
-
-
 # Number of pings to send
-num_pings=2 # Change this to the number of pings you want to send
+num_pings=1 # Change this to the number of pings you want to send
 
 # Print header
 echo " "
