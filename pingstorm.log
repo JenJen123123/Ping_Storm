@@ -2318,3 +2318,1002 @@ PING youtube.com (142.250.75.78) 56(84) bytes of data.
 --- youtube.com ping statistics ---
 10 packets transmitted, 10 received, 0% packet loss, time 9015ms
 rtt min/avg/max/mdev = 7.368/8.274/10.533/0.821 ms
+ 
+----------------------------------------------
+~~~~~~~~~~ Ping Test with 10 ping(s) ~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 29 18:34:58 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+***
+PING google.com (142.250.75.46) 56(84) bytes of data.
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=1 ttl=128 time=5.11 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=2 ttl=128 time=6.60 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=3 ttl=128 time=7.69 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=4 ttl=128 time=7.07 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=5 ttl=128 time=6.83 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=6 ttl=128 time=6.69 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=7 ttl=128 time=7.17 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=8 ttl=128 time=7.03 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=9 ttl=128 time=7.96 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=10 ttl=128 time=7.40 ms
+
+--- google.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9018ms
+rtt min/avg/max/mdev = 5.108/6.955/7.961/0.738 ms
+ 
+----------------------------------------------
+~~~~~~~~~~ Ping Test with 50 ping(s) ~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 29 18:41:37 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+***
+PING google.com (142.250.75.174) 56(84) bytes of data.
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=1 ttl=128 time=7.58 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=2 ttl=128 time=7.91 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=3 ttl=128 time=8.92 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=4 ttl=128 time=6.02 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=5 ttl=128 time=7.75 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=6 ttl=128 time=7.82 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=7 ttl=128 time=7.82 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=8 ttl=128 time=7.98 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=9 ttl=128 time=7.89 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=10 ttl=128 time=8.44 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=11 ttl=128 time=8.49 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=12 ttl=128 time=8.72 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=13 ttl=128 time=8.86 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=14 ttl=128 time=7.42 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=15 ttl=128 time=8.82 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=16 ttl=128 time=7.88 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=17 ttl=128 time=7.95 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=18 ttl=128 time=8.09 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=19 ttl=128 time=8.30 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=20 ttl=128 time=7.14 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=21 ttl=128 time=7.06 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=22 ttl=128 time=7.34 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=23 ttl=128 time=7.84 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=24 ttl=128 time=8.23 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=25 ttl=128 time=7.45 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=26 ttl=128 time=6.78 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=27 ttl=128 time=8.25 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=28 ttl=128 time=7.64 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=29 ttl=128 time=7.83 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=30 ttl=128 time=6.85 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=31 ttl=128 time=7.27 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=32 ttl=128 time=9.21 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=33 ttl=128 time=9.15 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=34 ttl=128 time=10.7 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=35 ttl=128 time=8.07 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=36 ttl=128 time=222 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=37 ttl=128 time=352 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=38 ttl=128 time=6.97 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=39 ttl=128 time=6.95 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=40 ttl=128 time=6.94 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=41 ttl=128 time=7.97 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=42 ttl=128 time=7.95 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=43 ttl=128 time=8.46 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=44 ttl=128 time=9.26 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=45 ttl=128 time=7.37 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=46 ttl=128 time=8.72 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=47 ttl=128 time=7.73 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=48 ttl=128 time=6.31 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=49 ttl=128 time=6.30 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=50 ttl=128 time=8.00 ms
+
+--- google.com ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49095ms
+rtt min/avg/max/mdev = 6.021/19.045/351.540/56.196 ms
+ 
+***
+PING facebook.com (157.240.196.35) 56(84) bytes of data.
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=1 ttl=128 time=44.4 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=2 ttl=128 time=46.3 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=3 ttl=128 time=43.1 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=4 ttl=128 time=45.0 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=5 ttl=128 time=45.1 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=6 ttl=128 time=45.8 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=7 ttl=128 time=45.8 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=8 ttl=128 time=44.6 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=9 ttl=128 time=45.2 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=10 ttl=128 time=45.1 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=11 ttl=128 time=46.8 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=12 ttl=128 time=46.1 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=13 ttl=128 time=46.3 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=14 ttl=128 time=45.1 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=15 ttl=128 time=45.0 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=16 ttl=128 time=44.7 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=17 ttl=128 time=44.3 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=18 ttl=128 time=44.3 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=19 ttl=128 time=45.0 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=20 ttl=128 time=43.8 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=21 ttl=128 time=46.7 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=22 ttl=128 time=46.1 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=23 ttl=128 time=45.1 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=24 ttl=128 time=44.4 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=25 ttl=128 time=44.5 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=26 ttl=128 time=44.9 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=27 ttl=128 time=45.1 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=28 ttl=128 time=44.6 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=29 ttl=128 time=44.7 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=30 ttl=128 time=46.4 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=31 ttl=128 time=44.8 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=32 ttl=128 time=45.4 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=33 ttl=128 time=46.3 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=34 ttl=128 time=45.5 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=35 ttl=128 time=44.9 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=36 ttl=128 time=45.0 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=37 ttl=128 time=45.0 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=38 ttl=128 time=44.7 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=39 ttl=128 time=44.9 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=40 ttl=128 time=44.2 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=41 ttl=128 time=46.0 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=42 ttl=128 time=44.5 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=43 ttl=128 time=45.4 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=44 ttl=128 time=46.1 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=45 ttl=128 time=45.1 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=46 ttl=128 time=46.6 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=47 ttl=128 time=45.5 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=48 ttl=128 time=45.7 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=49 ttl=128 time=44.9 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=50 ttl=128 time=45.6 ms
+
+--- facebook.com ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49090ms
+rtt min/avg/max/mdev = 43.126/45.211/46.805/0.776 ms
+ 
+***
+PING tiktok.com (72.246.151.107) 56(84) bytes of data.
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=1 ttl=128 time=5.51 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=2 ttl=128 time=18.0 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=3 ttl=128 time=7.36 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=4 ttl=128 time=7.14 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=5 ttl=128 time=5.40 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=6 ttl=128 time=5.90 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=7 ttl=128 time=6.49 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=8 ttl=128 time=7.37 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=9 ttl=128 time=8.05 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=10 ttl=128 time=5.49 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=11 ttl=128 time=6.41 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=12 ttl=128 time=5.46 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=13 ttl=128 time=5.94 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=14 ttl=128 time=8.66 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=15 ttl=128 time=7.05 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=16 ttl=128 time=6.07 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=17 ttl=128 time=7.11 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=18 ttl=128 time=5.63 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=19 ttl=128 time=6.71 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=20 ttl=128 time=6.41 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=21 ttl=128 time=10.2 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=22 ttl=128 time=5.73 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=23 ttl=128 time=5.52 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=24 ttl=128 time=7.47 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=25 ttl=128 time=5.16 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=26 ttl=128 time=6.30 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=27 ttl=128 time=7.17 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=28 ttl=128 time=5.38 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=29 ttl=128 time=7.19 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=30 ttl=128 time=6.50 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=31 ttl=128 time=6.72 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=32 ttl=128 time=5.56 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=33 ttl=128 time=5.78 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=34 ttl=128 time=5.79 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=35 ttl=128 time=5.28 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=36 ttl=128 time=6.84 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=37 ttl=128 time=5.26 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=38 ttl=128 time=6.35 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=39 ttl=128 time=5.61 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=40 ttl=128 time=8.50 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=41 ttl=128 time=5.15 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=42 ttl=128 time=6.68 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=43 ttl=128 time=5.45 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=44 ttl=128 time=4.93 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=45 ttl=128 time=6.15 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=46 ttl=128 time=9.90 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=47 ttl=128 time=6.36 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=48 ttl=128 time=5.37 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=49 ttl=128 time=5.48 ms
+64 bytes from a72-246-151-107.deploy.static.akamaitechnologies.com (72.246.151.107): icmp_seq=50 ttl=128 time=6.72 ms
+
+--- tiktok.com ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49093ms
+rtt min/avg/max/mdev = 4.926/6.653/18.043/1.986 ms
+ 
+***
+PING youtube.com (142.250.75.142) 56(84) bytes of data.
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=1 ttl=128 time=5.56 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=2 ttl=128 time=7.15 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=3 ttl=128 time=7.08 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=4 ttl=128 time=5.98 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=5 ttl=128 time=7.29 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=6 ttl=128 time=7.31 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=7 ttl=128 time=7.36 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=8 ttl=128 time=6.17 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=9 ttl=128 time=6.47 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=10 ttl=128 time=6.19 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=11 ttl=128 time=7.34 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=12 ttl=128 time=6.67 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=13 ttl=128 time=6.17 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=14 ttl=128 time=5.75 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=15 ttl=128 time=8.18 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=16 ttl=128 time=6.43 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=17 ttl=128 time=7.18 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=18 ttl=128 time=6.23 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=19 ttl=128 time=6.34 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=20 ttl=128 time=6.41 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=21 ttl=128 time=7.97 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=22 ttl=128 time=6.37 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=23 ttl=128 time=7.32 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=24 ttl=128 time=5.89 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=25 ttl=128 time=6.72 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=26 ttl=128 time=6.67 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=27 ttl=128 time=6.35 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=28 ttl=128 time=7.71 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=29 ttl=128 time=6.59 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=30 ttl=128 time=5.85 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=31 ttl=128 time=6.62 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=32 ttl=128 time=6.81 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=33 ttl=128 time=5.86 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=34 ttl=128 time=7.46 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=35 ttl=128 time=7.11 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=36 ttl=128 time=6.01 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=37 ttl=128 time=6.79 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=38 ttl=128 time=7.24 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=39 ttl=128 time=6.53 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=40 ttl=128 time=6.03 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=41 ttl=128 time=7.04 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=42 ttl=128 time=5.99 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=43 ttl=128 time=7.22 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=44 ttl=128 time=6.19 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=45 ttl=128 time=7.01 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=46 ttl=128 time=6.20 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=47 ttl=128 time=5.29 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=48 ttl=128 time=6.16 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=49 ttl=128 time=5.67 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=50 ttl=128 time=6.20 ms
+
+--- youtube.com ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49101ms
+rtt min/avg/max/mdev = 5.288/6.601/8.179/0.639 ms
+ 
+***
+PING netflix.com (54.246.79.9) 56(84) bytes of data.
+
+--- netflix.com ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 50216ms
+
+ 
+----------------------------------------------
+~~~~~~~~~~ Ping Test with 50 ping(s) ~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 29 18:48:09 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+***
+PING google.com (142.250.75.46) 56(84) bytes of data.
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=1 ttl=128 time=6.72 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=2 ttl=128 time=7.82 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=3 ttl=128 time=6.73 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=4 ttl=128 time=8.37 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=5 ttl=128 time=8.66 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=6 ttl=128 time=6.95 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=7 ttl=128 time=7.72 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=8 ttl=128 time=7.23 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=9 ttl=128 time=7.97 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=10 ttl=128 time=6.95 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=11 ttl=128 time=8.43 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=12 ttl=128 time=7.85 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=13 ttl=128 time=6.99 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=14 ttl=128 time=8.19 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=15 ttl=128 time=7.20 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=16 ttl=128 time=5.52 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=17 ttl=128 time=6.74 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=18 ttl=128 time=6.49 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=19 ttl=128 time=6.47 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=20 ttl=128 time=7.64 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=21 ttl=128 time=7.26 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=22 ttl=128 time=7.00 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=23 ttl=128 time=8.27 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=24 ttl=128 time=7.71 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=25 ttl=128 time=8.44 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=26 ttl=128 time=7.43 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=27 ttl=128 time=7.01 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=28 ttl=128 time=8.60 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=29 ttl=128 time=7.71 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=30 ttl=128 time=7.14 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=31 ttl=128 time=7.17 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=32 ttl=128 time=8.02 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=33 ttl=128 time=8.25 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=34 ttl=128 time=6.55 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=35 ttl=128 time=7.62 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=36 ttl=128 time=6.97 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=37 ttl=128 time=7.02 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=38 ttl=128 time=7.63 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=39 ttl=128 time=8.36 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=40 ttl=128 time=7.55 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=41 ttl=128 time=5.59 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=42 ttl=128 time=6.73 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=43 ttl=128 time=5.96 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=44 ttl=128 time=8.81 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=45 ttl=128 time=7.04 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=46 ttl=128 time=6.34 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=47 ttl=128 time=67.4 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=48 ttl=128 time=5.68 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=49 ttl=128 time=84.4 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=50 ttl=128 time=60.2 ms
+
+--- google.com ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49093ms
+rtt min/avg/max/mdev = 5.518/11.130/84.420/15.270 ms
+ 
+----------------------------------------------
+~~~~~~~~~~ Ping Test with 50 ping(s) ~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 29 18:58:15 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+***
+PING google.com (142.250.75.174) 56(84) bytes of data.
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=1 ttl=128 time=6.78 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=2 ttl=128 time=6.78 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=3 ttl=128 time=7.69 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=4 ttl=128 time=6.39 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=5 ttl=128 time=7.45 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=6 ttl=128 time=8.12 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=7 ttl=128 time=7.78 ms
+
+--- google.com ping statistics ---
+7 packets transmitted, 7 received, 0% packet loss, time 6013ms
+rtt min/avg/max/mdev = 6.386/7.282/8.118/0.591 ms
+ 
+***
+PING facebook.com (157.240.196.35) 56(84) bytes of data.
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=1 ttl=128 time=45.8 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=2 ttl=128 time=45.8 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=3 ttl=128 time=47.1 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=4 ttl=128 time=45.3 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=5 ttl=128 time=45.9 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=6 ttl=128 time=46.2 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=7 ttl=128 time=45.5 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=8 ttl=128 time=46.2 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=9 ttl=128 time=45.8 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=10 ttl=128 time=44.6 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=11 ttl=128 time=45.9 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=12 ttl=128 time=44.4 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=13 ttl=128 time=46.1 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=14 ttl=128 time=46.1 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=15 ttl=128 time=47.0 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=16 ttl=128 time=46.8 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=17 ttl=128 time=45.7 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=18 ttl=128 time=46.8 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=19 ttl=128 time=45.5 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=20 ttl=128 time=45.9 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=21 ttl=128 time=46.5 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=22 ttl=128 time=46.4 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=23 ttl=128 time=46.6 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=24 ttl=128 time=45.8 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=25 ttl=128 time=46.2 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=26 ttl=128 time=47.6 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=27 ttl=128 time=46.1 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=28 ttl=128 time=44.8 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=29 ttl=128 time=46.5 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=30 ttl=128 time=45.6 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=31 ttl=128 time=46.1 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=32 ttl=128 time=46.3 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=33 ttl=128 time=45.6 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=34 ttl=128 time=46.1 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=35 ttl=128 time=47.2 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=36 ttl=128 time=46.4 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=37 ttl=128 time=46.9 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=38 ttl=128 time=46.3 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=39 ttl=128 time=47.1 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=40 ttl=128 time=48.1 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=41 ttl=128 time=46.0 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=42 ttl=128 time=46.9 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=43 ttl=128 time=46.7 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=44 ttl=128 time=45.7 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=45 ttl=128 time=46.1 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=46 ttl=128 time=46.0 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=47 ttl=128 time=47.7 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=48 ttl=128 time=45.7 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=49 ttl=128 time=45.6 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=50 ttl=128 time=46.3 ms
+
+--- facebook.com ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49091ms
+rtt min/avg/max/mdev = 44.392/46.178/48.092/0.716 ms
+ 
+***
+PING tiktok.com (104.77.202.83) 56(84) bytes of data.
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=1 ttl=128 time=7.30 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=2 ttl=128 time=5.32 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=3 ttl=128 time=6.74 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=4 ttl=128 time=7.16 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=5 ttl=128 time=5.93 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=6 ttl=128 time=6.60 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=7 ttl=128 time=7.08 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=8 ttl=128 time=6.71 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=9 ttl=128 time=7.08 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=10 ttl=128 time=5.16 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=11 ttl=128 time=6.43 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=12 ttl=128 time=5.48 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=13 ttl=128 time=6.14 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=14 ttl=128 time=4.60 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=15 ttl=128 time=6.50 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=16 ttl=128 time=10.1 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=17 ttl=128 time=6.42 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=18 ttl=128 time=6.02 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=19 ttl=128 time=6.13 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=20 ttl=128 time=6.82 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=21 ttl=128 time=6.52 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=22 ttl=128 time=7.43 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=23 ttl=128 time=6.28 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=24 ttl=128 time=6.96 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=25 ttl=128 time=6.35 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=26 ttl=128 time=7.37 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=27 ttl=128 time=6.31 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=28 ttl=128 time=7.00 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=29 ttl=128 time=5.53 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=30 ttl=128 time=5.91 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=31 ttl=128 time=4.47 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=32 ttl=128 time=5.08 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=33 ttl=128 time=6.54 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=34 ttl=128 time=6.10 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=35 ttl=128 time=5.91 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=36 ttl=128 time=3.68 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=37 ttl=128 time=7.33 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=38 ttl=128 time=6.18 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=39 ttl=128 time=5.22 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=40 ttl=128 time=6.41 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=41 ttl=128 time=5.96 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=42 ttl=128 time=6.22 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=43 ttl=128 time=6.16 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=44 ttl=128 time=4.76 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=45 ttl=128 time=6.27 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=46 ttl=128 time=6.01 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=47 ttl=128 time=5.95 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=48 ttl=128 time=5.52 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=49 ttl=128 time=6.33 ms
+64 bytes from a104-77-202-83.deploy.static.akamaitechnologies.com (104.77.202.83): icmp_seq=50 ttl=128 time=6.22 ms
+
+--- tiktok.com ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49095ms
+rtt min/avg/max/mdev = 3.676/6.232/10.076/0.955 ms
+ 
+***
+PING youtube.com (142.250.75.78) 56(84) bytes of data.
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=1 ttl=128 time=7.26 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=2 ttl=128 time=8.51 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=3 ttl=128 time=9.18 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=4 ttl=128 time=9.12 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=5 ttl=128 time=8.72 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=6 ttl=128 time=8.06 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=7 ttl=128 time=8.23 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=8 ttl=128 time=7.27 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=9 ttl=128 time=7.78 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=10 ttl=128 time=8.23 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=11 ttl=128 time=8.07 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=12 ttl=128 time=7.73 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=13 ttl=128 time=7.79 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=14 ttl=128 time=7.00 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=15 ttl=128 time=8.22 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=16 ttl=128 time=7.49 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=17 ttl=128 time=7.73 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=18 ttl=128 time=7.98 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=19 ttl=128 time=10.0 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=20 ttl=128 time=7.86 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=21 ttl=128 time=7.17 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=22 ttl=128 time=8.38 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=23 ttl=128 time=10.1 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=24 ttl=128 time=7.35 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=25 ttl=128 time=7.97 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=26 ttl=128 time=7.97 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=27 ttl=128 time=7.55 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=28 ttl=128 time=8.33 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=29 ttl=128 time=8.31 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=30 ttl=128 time=8.22 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=31 ttl=128 time=8.35 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=32 ttl=128 time=8.88 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=33 ttl=128 time=8.25 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=34 ttl=128 time=10.0 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=35 ttl=128 time=9.26 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=36 ttl=128 time=9.87 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=37 ttl=128 time=8.13 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=38 ttl=128 time=9.97 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=39 ttl=128 time=9.18 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=40 ttl=128 time=7.56 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=41 ttl=128 time=8.45 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=42 ttl=128 time=7.71 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=43 ttl=128 time=8.70 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=44 ttl=128 time=8.92 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=45 ttl=128 time=8.73 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=46 ttl=128 time=8.36 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=47 ttl=128 time=7.77 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=48 ttl=128 time=9.43 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=49 ttl=128 time=9.23 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=50 ttl=128 time=8.25 ms
+
+--- youtube.com ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49096ms
+rtt min/avg/max/mdev = 7.001/8.371/10.058/0.786 ms
+ 
+***
+PING netflix.com (54.73.148.110) 56(84) bytes of data.
+
+--- netflix.com ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 50168ms
+
+ 
+----------------------------------------------
+~~~~~~~~~~ Ping Test with 50 ping(s) ~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 29 19:05:51 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+***
+PING google.com (142.250.75.174) 56(84) bytes of data.
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=1 ttl=128 time=12.9 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=2 ttl=128 time=8.40 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=3 ttl=128 time=9.07 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=4 ttl=128 time=7.80 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=5 ttl=128 time=8.16 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=6 ttl=128 time=6.72 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=7 ttl=128 time=8.12 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=8 ttl=128 time=7.42 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=9 ttl=128 time=6.43 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=10 ttl=128 time=7.46 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=11 ttl=128 time=8.06 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=12 ttl=128 time=6.77 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=13 ttl=128 time=9.16 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=14 ttl=128 time=8.16 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=15 ttl=128 time=6.77 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=16 ttl=128 time=8.15 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=17 ttl=128 time=8.32 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=18 ttl=128 time=7.45 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=19 ttl=128 time=7.38 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=20 ttl=128 time=7.55 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=21 ttl=128 time=15.0 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=22 ttl=128 time=7.45 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=23 ttl=128 time=16.5 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=24 ttl=128 time=7.78 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=25 ttl=128 time=7.12 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=26 ttl=128 time=8.43 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=27 ttl=128 time=7.75 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=28 ttl=128 time=8.29 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=29 ttl=128 time=7.91 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=30 ttl=128 time=8.00 ms
+64 bytes from lctlvq-ad-in-f14.1e100.net (142.250.75.174): icmp_seq=31 ttl=128 time=8.34 ms
+
+--- google.com ping statistics ---
+31 packets transmitted, 31 received, 0% packet loss, time 30060ms
+rtt min/avg/max/mdev = 6.426/8.479/16.542/2.216 ms
+ 
+----------------------------------------------
+~~~~~~~~~~ Ping Test with 25 ping(s) ~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 29 19:09:30 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+***
+PING google.com (142.250.75.78) 56(84) bytes of data.
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=1 ttl=128 time=7.21 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=2 ttl=128 time=9.18 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=3 ttl=128 time=10.1 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=4 ttl=128 time=9.67 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=5 ttl=128 time=9.77 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=6 ttl=128 time=7.54 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=7 ttl=128 time=9.05 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=8 ttl=128 time=10.0 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=9 ttl=128 time=9.53 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=10 ttl=128 time=8.64 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=11 ttl=128 time=9.52 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=12 ttl=128 time=10.2 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=13 ttl=128 time=8.48 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=14 ttl=128 time=9.50 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=15 ttl=128 time=7.47 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=16 ttl=128 time=7.32 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=17 ttl=128 time=9.09 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=18 ttl=128 time=7.43 ms
+
+--- google.com ping statistics ---
+18 packets transmitted, 18 received, 0% packet loss, time 17035ms
+rtt min/avg/max/mdev = 7.210/8.873/10.196/1.019 ms
+ 
+----------------------------------------------
+~~~~~~~~~~ Ping Test with 25 ping(s) ~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 29 19:11:24 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+***
+PING google.com (142.250.75.110) 56(84) bytes of data.
+64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=1 ttl=128 time=7.27 ms
+64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=2 ttl=128 time=16.2 ms
+64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=3 ttl=128 time=6.94 ms
+64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=4 ttl=128 time=9.07 ms
+64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=5 ttl=128 time=8.11 ms
+64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=6 ttl=128 time=8.08 ms
+64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=7 ttl=128 time=7.99 ms
+64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=8 ttl=128 time=6.47 ms
+64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=9 ttl=128 time=6.55 ms
+64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=10 ttl=128 time=7.48 ms
+64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=11 ttl=128 time=6.92 ms
+64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=12 ttl=128 time=6.31 ms
+64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=13 ttl=128 time=7.57 ms
+64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=14 ttl=128 time=8.18 ms
+64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=15 ttl=128 time=6.90 ms
+64 bytes from tztlva-ac-in-f14.1e100.net (142.250.75.110): icmp_seq=16 ttl=128 time=7.68 ms
+
+--- google.com ping statistics ---
+16 packets transmitted, 16 received, 0% packet loss, time 15029ms
+rtt min/avg/max/mdev = 6.313/7.982/16.216/2.244 ms
+ 
+----------------------------------------------
+~~~~~~~~~~ Ping Test with 25 ping(s) ~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 29 19:12:05 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+***
+PING google.com (142.250.75.78) 56(84) bytes of data.
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=1 ttl=128 time=5.67 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=2 ttl=128 time=7.59 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=3 ttl=128 time=6.89 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=4 ttl=128 time=7.13 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=5 ttl=128 time=7.17 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=6 ttl=128 time=7.73 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=7 ttl=128 time=6.72 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=8 ttl=128 time=333 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=9 ttl=128 time=151 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=10 ttl=128 time=7.20 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=11 ttl=128 time=5.92 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=12 ttl=128 time=7.90 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=13 ttl=128 time=6.55 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=14 ttl=128 time=6.03 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=15 ttl=128 time=8.08 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=16 ttl=128 time=7.48 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=17 ttl=128 time=6.51 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=18 ttl=128 time=6.82 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=19 ttl=128 time=7.12 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=20 ttl=128 time=6.24 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=21 ttl=128 time=6.60 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=22 ttl=128 time=7.34 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=23 ttl=128 time=8.30 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=24 ttl=128 time=7.41 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=25 ttl=128 time=7.90 ms
+
+--- google.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24045ms
+rtt min/avg/max/mdev = 5.673/25.855/333.385/68.790 ms
+ 
+----------------------------------------------
+~~~~~~~~~~ Ping Test with 25 ping(s) ~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 29 19:12:42 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+***
+PING google.com (142.250.75.142) 56(84) bytes of data.
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=1 ttl=128 time=5.16 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=2 ttl=128 time=6.30 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=3 ttl=128 time=6.89 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=4 ttl=128 time=7.44 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=5 ttl=128 time=8.38 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=6 ttl=128 time=8.33 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=7 ttl=128 time=7.31 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=8 ttl=128 time=7.45 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=9 ttl=128 time=6.42 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=10 ttl=128 time=6.65 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=11 ttl=128 time=8.21 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=12 ttl=128 time=6.81 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=13 ttl=128 time=5.61 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=14 ttl=128 time=7.09 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=15 ttl=128 time=5.35 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=16 ttl=128 time=7.13 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=17 ttl=128 time=6.54 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=18 ttl=128 time=7.48 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=19 ttl=128 time=7.25 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=20 ttl=128 time=6.74 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=21 ttl=128 time=4.35 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=22 ttl=128 time=5.97 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=23 ttl=128 time=7.02 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=24 ttl=128 time=6.23 ms
+64 bytes from tztlva-ad-in-f14.1e100.net (142.250.75.142): icmp_seq=25 ttl=128 time=7.27 ms
+
+--- google.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24050ms
+rtt min/avg/max/mdev = 4.346/6.773/8.375/0.954 ms
+ 
+----------------------------------------------
+~~~~~~~~~~ Ping Test with 25 ping(s) ~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 29 19:14:42 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+***
+PING google.com (142.250.75.46) 56(84) bytes of data.
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=1 ttl=128 time=7.05 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=2 ttl=128 time=6.98 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=3 ttl=128 time=6.98 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=4 ttl=128 time=6.69 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=5 ttl=128 time=8.40 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=6 ttl=128 time=7.91 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=7 ttl=128 time=8.38 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=8 ttl=128 time=7.97 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=9 ttl=128 time=8.96 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=10 ttl=128 time=6.18 ms
+ 
+----------------------------------------------
+~~~~~~~~~~~ Analysis of Results ~~~~~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 29 19:14:51 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+   Website     Min      Max  
+-----------------------------
+facebook.com  49.700   49.700  
+facebook.com  49.527   49.527  
+facebook.com  45.823   46.041  
+facebook.com  45.689   45.689  
+facebook.com  45.508   49.857  
+facebook.com  45.427   47.358  
+facebook.com  45.361   47.830  
+facebook.com  45.321   45.321  
+facebook.com  45.286   45.286  
+facebook.com  44.952   47.749  
+facebook.com  44.893   70.626  
+facebook.com  44.719   47.333  
+facebook.com  44.712   46.548  
+facebook.com  44.550   46.791  
+facebook.com  44.392   48.092  
+facebook.com  44.371   47.039  
+facebook.com  44.275   48.026  
+facebook.com  44.113   46.531  
+facebook.com  44.096   84.061  
+facebook.com  43.967   53.684  
+facebook.com  43.892   46.853  
+facebook.com  43.834   43.834  
+facebook.com  43.631   51.368  
+facebook.com  43.542   254.471 
+facebook.com  43.448   56.640  
+facebook.com  43.126   46.805  
+google.com    8.289    8.289   
+youtube.com   8.125    8.125   
+google.com    8.018    10.134  
+google.com    7.640    7.640   
+google.com    7.587    10.208  
+youtube.com   7.547    9.577   
+youtube.com   7.457    7.457   
+youtube.com   7.421    9.299   
+youtube.com   7.368    10.533  
+google.com    7.357    7.357   
+youtube.com   7.238    9.083   
+google.com    7.145    8.473   
+youtube.com   7.144    9.323   
+youtube.com   7.001    10.058  
+youtube.com   6.931    10.266  
+google.com    6.871    8.776   
+youtube.com   6.765    12.826  
+youtube.com   6.694    6.694   
+youtube.com   6.535    9.856   
+google.com    6.492    9.229   
+youtube.com   6.472    8.846   
+google.com    6.386    8.118   
+youtube.com   6.291    6.291   
+tiktok.com    6.268    8.261   
+youtube.com   6.251    8.855   
+tiktok.com    6.170    8.187   
+youtube.com   6.164    312.812 
+youtube.com   6.147    8.782   
+google.com    6.064    8.911   
+google.com    6.061    8.705   
+google.com    6.061    6.061   
+google.com    6.021    351.540 
+google.com    5.927    9.793   
+youtube.com   5.924    7.513   
+google.com    5.923    8.671   
+youtube.com   5.809    8.491   
+tiktok.com    5.773    5.773   
+google.com    5.752    5.752   
+google.com    5.703    8.346   
+tiktok.com    5.648    10.527  
+google.com    5.628    386.111 
+youtube.com   5.619    5.619   
+google.com    5.600    7.168   
+tiktok.com    5.594    7.603   
+google.com    5.557    9.015   
+google.com    5.550    5.550   
+tiktok.com    5.545    7.449   
+google.com    5.535    8.787   
+tiktok.com    5.476    5.476   
+youtube.com   5.446    7.566   
+google.com    5.355    15.213  
+tiktok.com    5.329    6.307   
+tiktok.com    5.315    5.315   
+youtube.com   5.288    8.179   
+google.com    5.239    7.519   
+tiktok.com    5.222    7.063   
+tiktok.com    5.157    7.896   
+tiktok.com    5.137    5.137   
+tiktok.com    5.135    8.353   
+youtube.com   5.046    5.046   
+tiktok.com    4.926    18.043  
+tiktok.com    4.904    10.034  
+tiktok.com    4.880    9.193   
+tiktok.com    4.816    4.816   
+tiktok.com    4.760    4.760   
+google.com    4.746    8.123   
+tiktok.com    4.706    7.245   
+google.com    4.315    7.940   
+tiktok.com    4.298    6.075   
+tiktok.com    4.289    6.416   
+tiktok.com    4.217    7.882   
+tiktok.com    3.822    7.265   
+tiktok.com    3.690    11.661  
+tiktok.com    3.676    10.076  
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+netflix.com   N/A      N/A     
+ 
+     Summary of the results     
+--------------------------------
+Fastest: 
+tiktok.com 3.676
+Slowest: 
+facebook.com 49.700
+Average: 16.044
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=11 ttl=128 time=6.54 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=12 ttl=128 time=8.10 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=13 ttl=128 time=6.80 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=14 ttl=128 time=7.03 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=15 ttl=128 time=6.00 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=16 ttl=128 time=7.59 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=17 ttl=128 time=8.10 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=18 ttl=128 time=7.84 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=19 ttl=128 time=7.96 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=20 ttl=128 time=9.22 ms
+ 
+----------------------------------------------
+~~~~~~~~~~ Ping Test with 25 ping(s) ~~~~~~~~~~
+~~~~~~~~~~~ 2025 03 29 19:15:01 ~~~~~~~~~~~~~~
+----------------------------------------------
+ 
+***
+PING google.com (142.250.75.78) 56(84) bytes of data.
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=1 ttl=128 time=7.47 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=21 ttl=128 time=7.16 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=2 ttl=128 time=7.55 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=22 ttl=128 time=8.52 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=3 ttl=128 time=7.97 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=23 ttl=128 time=6.82 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=4 ttl=128 time=9.38 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=24 ttl=128 time=6.85 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=5 ttl=128 time=8.26 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=25 ttl=128 time=6.92 ms
+
+--- google.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24046ms
+rtt min/avg/max/mdev = 5.996/7.477/9.222/0.837 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=6 ttl=128 time=9.13 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=7 ttl=128 time=8.65 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=8 ttl=128 time=7.07 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=9 ttl=128 time=9.16 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=10 ttl=128 time=7.17 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=11 ttl=128 time=10.4 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=12 ttl=128 time=9.33 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=13 ttl=128 time=8.25 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=14 ttl=128 time=7.48 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=15 ttl=128 time=9.20 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=16 ttl=128 time=7.95 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=17 ttl=128 time=8.53 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=18 ttl=128 time=7.83 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=19 ttl=128 time=8.39 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=20 ttl=128 time=9.55 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=21 ttl=128 time=8.65 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=22 ttl=128 time=8.21 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=23 ttl=128 time=8.62 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=24 ttl=128 time=10.1 ms
+64 bytes from tztlva-ab-in-f14.1e100.net (142.250.75.78): icmp_seq=25 ttl=128 time=8.68 ms
+
+--- google.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24046ms
+rtt min/avg/max/mdev = 7.073/8.517/10.412/0.850 ms
+ 
+***
+PING facebook.com (157.240.196.35) 56(84) bytes of data.
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=1 ttl=128 time=44.7 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=2 ttl=128 time=45.3 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=3 ttl=128 time=44.5 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=4 ttl=128 time=45.3 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=5 ttl=128 time=44.5 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=6 ttl=128 time=45.3 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=7 ttl=128 time=45.6 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=8 ttl=128 time=45.7 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=9 ttl=128 time=45.2 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=10 ttl=128 time=45.7 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=11 ttl=128 time=45.8 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=12 ttl=128 time=45.0 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=13 ttl=128 time=45.5 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=14 ttl=128 time=44.2 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=15 ttl=128 time=44.4 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=16 ttl=128 time=46.6 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=17 ttl=128 time=45.3 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=18 ttl=128 time=44.6 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=19 ttl=128 time=45.6 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=20 ttl=128 time=46.2 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=21 ttl=128 time=45.1 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=22 ttl=128 time=44.8 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=23 ttl=128 time=45.5 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=24 ttl=128 time=46.0 ms
+64 bytes from edge-star-mini-shv-02-mrs2.facebook.com (157.240.196.35): icmp_seq=25 ttl=128 time=45.8 ms
+
+--- facebook.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24046ms
+rtt min/avg/max/mdev = 44.207/45.284/46.565/0.584 ms
+ 
+***
+PING tiktok.com (104.77.202.89) 56(84) bytes of data.
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=1 ttl=128 time=10.0 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=2 ttl=128 time=6.75 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=3 ttl=128 time=5.48 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=4 ttl=128 time=6.62 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=5 ttl=128 time=5.80 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=6 ttl=128 time=6.65 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=7 ttl=128 time=8.31 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=8 ttl=128 time=6.42 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=9 ttl=128 time=5.34 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=10 ttl=128 time=6.85 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=11 ttl=128 time=5.65 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=12 ttl=128 time=6.55 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=13 ttl=128 time=5.61 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=14 ttl=128 time=5.58 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=15 ttl=128 time=6.20 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=16 ttl=128 time=7.58 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=17 ttl=128 time=6.80 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=18 ttl=128 time=7.27 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=19 ttl=128 time=5.93 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=20 ttl=128 time=8.19 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=21 ttl=128 time=9.45 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=22 ttl=128 time=6.66 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=23 ttl=128 time=6.10 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=24 ttl=128 time=5.43 ms
+64 bytes from a104-77-202-89.deploy.static.akamaitechnologies.com (104.77.202.89): icmp_seq=25 ttl=128 time=6.89 ms
+
+--- tiktok.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24044ms
+rtt min/avg/max/mdev = 5.338/6.724/10.009/1.185 ms
+ 
+***
+PING youtube.com (142.250.75.46) 56(84) bytes of data.
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=1 ttl=128 time=6.76 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=2 ttl=128 time=6.19 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=3 ttl=128 time=7.56 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=4 ttl=128 time=7.24 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=5 ttl=128 time=6.56 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=6 ttl=128 time=6.16 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=7 ttl=128 time=7.81 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=8 ttl=128 time=6.91 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=9 ttl=128 time=6.96 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=10 ttl=128 time=7.29 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=11 ttl=128 time=8.02 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=12 ttl=128 time=8.12 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=13 ttl=128 time=6.83 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=14 ttl=128 time=7.18 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=15 ttl=128 time=6.26 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=16 ttl=128 time=7.26 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=17 ttl=128 time=7.75 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=18 ttl=128 time=9.40 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=19 ttl=128 time=8.28 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=20 ttl=128 time=7.44 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=21 ttl=128 time=6.73 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=22 ttl=128 time=7.40 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=23 ttl=128 time=10.8 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=24 ttl=128 time=7.13 ms
+64 bytes from tztlva-aa-in-f14.1e100.net (142.250.75.46): icmp_seq=25 ttl=128 time=7.22 ms
+
+--- youtube.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24035ms
+rtt min/avg/max/mdev = 6.156/7.410/10.822/0.990 ms
+ 
+***
+PING netflix.com (18.200.8.190) 56(84) bytes of data.
+
+--- netflix.com ping statistics ---
+25 packets transmitted, 0 received, 100% packet loss, time 24505ms
+

@@ -9,25 +9,25 @@ PING_PID=$(pgrep -f "ping.sh")
 #echo -e "\e[1;31;40m ~~~~~~~~~~~~~~ PID: $PING_PID ~~~~~~~~~~~~~~~ \e[0m"
 #echo "    "
 
+echo "    "
+echo -e "\e[1;36;40m ~~~ PINGSTORM CONTROL PANEL ~~~ \e[0m"
+echo "    "
 
-
-# echo "    "
-# echo -e "\e[1;31;40m ~~~ PINGSTORM CONTROL PANEL ~~~ \e[0m"
-# echo "    "
-# if [[ -n "$PING_PID" ]]; then
-# 	i=0
-# 	for PID in $PING_PID; do
-# 		echo "$i. PID: $PID"
-# 		i=$((i + 1))
-# 	done
-# else
-# 	echo -e "\e[1;31;40m ~~~ No Ping Storm is running ~~~ \e[0m"
-# 	echo "    "
-# fi
-# echo "    "
-
-
-
+if [[ -n "$PING_PID" ]]; then
+	echo -e "\e[1;32;40m✅ Ping Storm is running\e[0m"
+	echo "    "
+	echo -e "\e[1;34;40m🔍 PID(s) of the running process (ping.sh & ping command):\e[0m"
+	echo "    "
+	i=0
+	for PID in $PING_PID; do
+		echo "$i. PID: $PID"
+		i=$((i + 1))
+	done
+else
+	echo -e "\e[1;31;40m❌ No Ping Storm is not running\e[0m"
+	echo "    "
+fi
+echo "    "
 
 menu() {
 	echo "    "
@@ -61,17 +61,26 @@ select comd in "${options[@]}"; do
 	"Stop")
 		##continue stop option##
 		echo "    "
-		if [[ $PING_PID -ne "0" ]]; then
-			echo -e "\e[1;31;40m ~~~ Stoping Ping Storm ~~~ \e[0m"
+
+		#echo -e "\e[1;33;40m ~~~ Stopping Ping Storm ~~~ \e[0m"
+		echo "    "
+		echo -e "\e[1;33;40m🛑 ping.sh script stopped\e[0m"
+		echo "    "
+		if [[ -n "$PING_PID" ]]; then
+			i=1
+			for PID in $PING_PID; do
+				#echo "$i. PID: $PID"
+				kill $PID
+				break
+			done
+
+			echo -e "\e[1;34;40m🛑 ping command stopped \e[0m"
 			echo "    "
-			kill $PING_PID
-			echo "Ping Storm successfully stopped!"
-			menu
-			PING_PID=0
+			kill $(pgrep -f "ping.sh")
+
 		else
-			echo -e "\e[1;33;31m ~~~ Ping Storm is not running ~~~ \e[0m"
-			PING_PID=0
-			menu
+			echo -e "\e[1;31;40m ~~~ No Ping Storm is running ~~~ \e[0m"
+			echo "    "
 		fi
 
 		;;
@@ -86,7 +95,8 @@ select comd in "${options[@]}"; do
 		;;
 	"Quit")
 		echo "    "
-		echo "Exiting..."
+		echo -e "\e[1;33;40m👋 Exiting Ping Storm Control Panel... Goodbye!\e[0m"
+		echo "    "
 		break
 		;;
 	*) echo "Invalid option" ;;
