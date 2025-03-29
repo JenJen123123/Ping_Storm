@@ -3,6 +3,8 @@
 
 An efficient and powerful ping tool designed to monitor network performance, diagnose connectivity issues, and perform stress tests on networks.
 
+Made By Jenya, Noya, Nadya & Yoel.
+
 ---
 
 ## 🚀 Features
