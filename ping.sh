@@ -15,11 +15,18 @@ services=(
     "facebook.com"
     "tiktok.com"
     "youtube.com"
-    "netflix.com"
+    #"netflix.com"
 )
 
+#Addin the number of services to the log
+num_services=${#services[@]}
+
+
+
+
+
 # Number of pings to send
-num_pings=25 # Change this to the number of pings you want to send
+num_pings=20 # Change this to the number of pings you want to send
 
 # Print header
 echo " "
@@ -36,6 +43,7 @@ echo "----------------------------------------------"
 echo " " >>pingstorm.log
 echo "----------------------------------------------" >>pingstorm.log
 echo "~~~~~~~~~~ Ping Test with $num_pings ping(s) ~~~~~~~~~~" >>pingstorm.log
+echo "~~~~~~~~~~~~~ Pinging $num_services services ~~~~~~~~~~~~~" >>pingstorm.log
 echo "~~~~~~~~~~~ $(date '+%Y %m %d %H:%M:%S') ~~~~~~~~~~~~~~" >>pingstorm.log
 echo "----------------------------------------------" >>pingstorm.log
 

@@ -61,12 +61,10 @@ select comd in "${options[@]}"; do
 	"Stop")
 		##continue stop option##
 		echo "    "
-
-		#echo -e "\e[1;33;40m ~~~ Stopping Ping Storm ~~~ \e[0m"
-		echo "    "
-		echo -e "\e[1;33;40m🛑 ping.sh script stopped\e[0m"
-		echo "    "
 		if [[ -n "$PING_PID" ]]; then
+			echo "    "
+			echo -e "\e[1;33;40m🛑 ping.sh script stopped\e[0m"
+			echo "    "
 			i=1
 			for PID in $PING_PID; do
 				#echo "$i. PID: $PID"
@@ -77,7 +75,8 @@ select comd in "${options[@]}"; do
 			echo -e "\e[1;34;40m🛑 ping command stopped \e[0m"
 			echo "    "
 			kill $(pgrep -f "ping.sh")
-
+			# Clear the PID variable
+			PING_PID=""
 		else
 			echo -e "\e[1;31;40m ~~~ No Ping Storm is running ~~~ \e[0m"
 			echo "    "
